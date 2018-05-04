@@ -3,226 +3,335 @@
     "date": "1966-02-24T05:00:00.000Z",
     "title": "Big Lake One",
     "location": {
-      "city": "Big Lake",
+      "name": "Selective Service Board",
+      "address": "",
+      "city": "Elk River",
       "state": "Minnesota",
     },
-    "results": ["draft records destroyed"]
+    "results": ["draft records destroyed"],
+    "participants": ["Bondhus, Barry"]
   },
   {
     "date": "1967-10-27T04:00:00.000Z",
     "title": "Baltimore Four",
     "location": {
+      "name": "Selective Service Board at the Customs House",
+      "address": "",
       "city": "Baltimore",
       "state": "Maryland",
     },
-    "results": ["600 draft records destroyed"]
+    "results": ["600 draft records destroyed"],
+    "participants": [
+      "Eberhardt, David",
+      "Mengel, James",
+      "Lewis, Tom",
+      "Berrigan, Philip"]
   },
   {
     "date": "1968-05-17T04:00:00.000Z",
     "title": "Catonsville Nine",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Catonsville",
       "state": "Maryland",
     },
-    "results": ["378 draft records destroyed"]
+    "results": ["378 draft records destroyed"],
+    "participants": [
+      "Lewis, Tom",
+      "Berrigan, Philip",
+      "Berrigan, Daniel",
+      "Melville, Tom",
+      "Melville, Margarita",
+      "Moylan, Mary",
+      "Mische, George",
+      "Darst, David",
+      "Hogan, Tom"]
   },
   {
-    "date": "1968-09-14T04:00:00.000Z",
+    "date": "1968-09-24T04:00:00.000Z",
     "title": "Milwaukee 14",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Milwaukee",
       "state": "Wisconsin",
     },
-    "results": ["10,000 draft records destroyed"]
+    "results": ["10,000 draft records destroyed"],
+    "participants": [
+      "Gardner, Jerry",
+      "Graf, Bob",
+      "Forest, Jim",
+      "Rosebaugh, Larry",
+      "O'Leary, Basil",
+      "Higgenbotham, John",
+      "Cotton, Donald",
+      "Harney, James",
+      "Janicke, Alfred",
+      "Ogile, Fred",
+      "Cullen, Michael",
+      "Mullaney, Tony",
+      "Cunnane, Robert",
+      "Marvy, Doug"]
   },
   {
     "date": "1969-03-22T05:00:00.000Z",
     "title": "D.C. 9",
     "location": {
+      "name": "Dow Chemical's offices",
+      "address": "",
       "city": "Washington",
       "state": "District of Columbia",
     },
-    "type": "Dow Chemical's offices",
-    "results": ["unknown"]
+    "results": ["unknown"],
+    "participants": []
   },
   {
     "date": "1969-05-20T04:00:00.000Z",
     "title": "Pasadena 3",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Pasadena",
       "state": "California",
     },
-    "results": ["500 draft records destroyed"]
+    "results": ["500 draft records destroyed"],
+    "participants": []
   },
   {
     "date": "1969-05-21T04:00:00.000Z",
     "title": "Silver Spring 3",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Silver Spring",
       "state": "Maryland",
     },
-    "results": ["200,000 draft records destroyed", "equipment destroyed"]
+    "results": ["200,000 draft records destroyed", "equipment destroyed"],
+    "participants": []
   },
   {
     "date": "1969-05-25T04:00:00.000Z",
     "title": "Chicago 15",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Chicago",
       "state": "Illinois",
     },
-    "results": ["40,000 draft records destroyed"]
+    "results": ["40,000 draft records destroyed"],
+    "participants": []
   },
   {
     "date": "1969-07-02T04:00:00.000Z",
     "title": "Women Against Daddy Warbucks",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "New York",
       "state": "New York",
     },
-    "results": ["6,500 draft records destroyed", "cross reference files destroyed", "1-A key on typewriters removed"]
+    "results": [
+      "6,500 draft records destroyed",
+      "cross reference files destroyed",
+      "1-A key on typewriters removed"],
+    "participants": []
   },
   {
     "date": "1969-08-02T04:00:00.000Z",
     "title": "New York 8",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Bronx",
       "state": "New York",
     },
-    "results": ["75,000 draft records destroyed"]
+    "results": ["75,000 draft records destroyed"],
+    "participants": []
   },
   {
     "date": "1969-08-15T04:00:00.000Z",
     "title": "New York 8",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Jamaica",
       "state": "New York",
     },
-    "results": ["5,000 draft records destroyed"]
+    "results": ["5,000 draft records destroyed"],
+    "participants": []
   },
   {
     "date": "1969-11-01T05:00:00.000Z",
     "title": "Beaver 55",
     "location": {
+      "name": "",
+      "address": "",
       "city": "Indianapolis",
       "state": "Indiana",
     },
-    "results": ["records of 44 draft boards destroyed"]
+    "results": ["records of 44 draft boards destroyed"],
+    "participants": []
   },
   {
     "date": "1969-11-02T05:00:00.000Z",
     "title": "D.C. 541/2",
     "location": {
+      "name": "Dow Chemical offices",
+      "address": "",
       "city": "Washington",
       "state": "District of Columbia",
     },
-    "results": ["files of corporation destroyed"]
+    "results": ["files of corporation destroyed"],
+    "participants": []
   },
   {
     "date": "1969-11-07T05:00:00.000Z",
     "title": "Beaver 55",
     "location": {
+      "name": "",
+      "address": "",
       "city": "Midland",
       "state": "Michigan",
     },
-    "results": ["magnetic tapes erased"]
+    "results": ["magnetic tapes erased"],
+    "participants": []
   },
   {
     "date": "1970-02-28T05:00:00.000Z",
     "title": "Beaver 55",
     "location": {
+      "name": "",
+      "address": "",
       "city": "St. Paul",
       "state": "Minnesota",
     },
-    "results": ["10,000 draft records destroyed", "equipment destroyed"]
+    "results": ["10,000 draft records destroyed", "equipment destroyed"],
+    "participants": []
   },
   {
     "date": "1970-07-10T04:00:00.000Z",
     "title": "Minnesota 8",
     "location": {
+      "name": "",
+      "address": "",
       "city": "Alexandria",
       "state": "Minnesota",
     },
-    "results": ["FBI ambush"]
+    "results": ["FBI ambush"],
+    "participants": []
   },
   {
     "date": "1970-09-06T04:00:00.000Z",
     "title": "Flower City Conspiracy",
     "location": {
+      "name": "",
+      "address": "",
       "city": "Rochester",
       "state": "New York",
     },
-    "results": ["draft records destroyed", "FBI records destroyed", "US Attorney's records destroyed"]
+    "results": ["draft records destroyed", "FBI records destroyed", "US Attorney's records destroyed"],
+    "participants": []
   },
   {
     "date": "1971-08-21T04:00:00.000Z",
     "title": "Buffalo 5",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Buffalo",
       "state": "New York",
     },
-    "results": ["draft records destroyed"]
+    "results": ["draft records destroyed"],
+    "participants": []
   },
   {
     "date": "1971-08-22T04:00:00.000Z",
     "title": "Camden 28",
     "location": {
+      "name": "",
+      "address": "",
       "city": "Camden",
       "state": "New Jersey",
     },
-    "results": []
+    "results": ["unknown"],
+    "participants": []
   },
   {
     "date": "1971-10-28T04:00:00.000Z",
     "title": "New and Improved East Coast Conspiracy to Save Lives",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Geneseo",
       "state": "New York",
     },
-    "results": ["700 draft records destroyed"]
+    "results": ["700 draft records destroyed"],
+    "participants": []
   },
   {
     "date": "1969-01-21T05:00:00.000Z",
     "title": "Silver Spring 3",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Silver Spring",
       "state": "Maryland",
     },
-    "results": ["draft records destroyed"]
+    "results": ["draft records destroyed"],
+    "participants": []
   },
   {
     "date": "1969-10-01T04:00:00.000Z",
     "title": "Cleveland 2",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Akron",
       "state": "Ohio",
     },
-    "results": ["draft records destroyed"]
+    "results": ["draft records destroyed"],
+    "participants": []
   },
   {
     "date": "1970-02-06T04:00:00.000Z",
     "title": "East Coast Conspiracy to Save Lives",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Philadelphia",
       "state": "PA",
     },
-    "results": ["draft records destroyed"]
+    "results": ["draft records destroyed"],
+    "participants": []
   },
   {
     "date": "1970-02-07T04:00:00.000Z",
     "title": "East Coast Conspiracy to Save Lives",
     "location": {
+      "name": "General Electric offices",
+      "address": "",
       "city": "Washington",
       "state": "DC",
     },
-    "results": ["General Electric records destroyed"]
+    "results": ["General Electric records destroyed"],
+    "participants": []
   },
   {
     "date": "1968-06-04T04:00:00.000Z",
     "title": "Boston 2",
     "location": {
+      "name": "Selective Service Board",
+      "address": "",
       "city": "Boston",
       "state": "Massachusetts",
     },
-    "results": ["several hundred draft records destroyed"]
+    "results": ["several hundred draft records destroyed"],
+    "participants": [
+      "Williams, Suzi",
+      "Femia, Frank"]
+  }
+  {
+    "title": "Media 4"
   }
 ]
