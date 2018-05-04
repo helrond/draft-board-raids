@@ -6,7 +6,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Elk River",
-      "state": "Minnesota",
+      "state": "Minnesota"
     },
     "results": ["draft records destroyed"],
     "participants": ["Bondhus, Barry"]
@@ -18,7 +18,7 @@
       "name": "Selective Service Board at the Customs House",
       "address": "",
       "city": "Baltimore",
-      "state": "Maryland",
+      "state": "Maryland"
     },
     "results": ["600 draft records destroyed"],
     "participants": [
@@ -34,7 +34,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Catonsville",
-      "state": "Maryland",
+      "state": "Maryland"
     },
     "results": ["378 draft records destroyed"],
     "participants": [
@@ -55,7 +55,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Milwaukee",
-      "state": "Wisconsin",
+      "state": "Wisconsin"
     },
     "results": ["10,000 draft records destroyed"],
     "participants": [
@@ -79,12 +79,22 @@
     "title": "D.C. 9",
     "location": {
       "name": "Dow Chemical's offices",
-      "address": "",
+      "address": "1030-15th Street, N.W.",
       "city": "Washington",
-      "state": "District of Columbia",
+      "state": "District of Columbia"
     },
     "results": ["unknown"],
-    "participants": []
+    "participants": [
+      "Begin, Robert",
+      "Malone, JoAnn",
+      "Melville, Arthur",
+      "O'Rourke, Joseph",
+      "Moloney, Dennis",
+      "Slaski, Michael",
+      "Dougherty, Michael",
+      "Melville, Catherine",
+      "Meyer, Bernie"
+    ]
   },
   {
     "date": "1969-05-20T04:00:00.000Z",
@@ -93,7 +103,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Pasadena",
-      "state": "California",
+      "state": "California"
     },
     "results": ["500 draft records destroyed"],
     "participants": []
@@ -105,7 +115,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Silver Spring",
-      "state": "Maryland",
+      "state": "Maryland"
     },
     "results": ["200,000 draft records destroyed", "equipment destroyed"],
     "participants": []
@@ -117,7 +127,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Chicago",
-      "state": "Illinois",
+      "state": "Illinois"
     },
     "results": ["40,000 draft records destroyed"],
     "participants": []
@@ -129,7 +139,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "New York",
-      "state": "New York",
+      "state": "New York"
     },
     "results": [
       "6,500 draft records destroyed",
@@ -144,7 +154,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Bronx",
-      "state": "New York",
+      "state": "New York"
     },
     "results": ["75,000 draft records destroyed"],
     "participants": []
@@ -156,7 +166,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Jamaica",
-      "state": "New York",
+      "state": "New York"
     },
     "results": ["5,000 draft records destroyed"],
     "participants": []
@@ -168,7 +178,7 @@
       "name": "",
       "address": "",
       "city": "Indianapolis",
-      "state": "Indiana",
+      "state": "Indiana"
     },
     "results": ["records of 44 draft boards destroyed"],
     "participants": []
@@ -180,7 +190,7 @@
       "name": "Dow Chemical offices",
       "address": "",
       "city": "Washington",
-      "state": "District of Columbia",
+      "state": "District of Columbia"
     },
     "results": ["files of corporation destroyed"],
     "participants": []
@@ -192,7 +202,7 @@
       "name": "",
       "address": "",
       "city": "Midland",
-      "state": "Michigan",
+      "state": "Michigan"
     },
     "results": ["magnetic tapes erased"],
     "participants": []
@@ -204,7 +214,7 @@
       "name": "",
       "address": "",
       "city": "St. Paul",
-      "state": "Minnesota",
+      "state": "Minnesota"
     },
     "results": ["10,000 draft records destroyed", "equipment destroyed"],
     "participants": []
@@ -216,7 +226,7 @@
       "name": "",
       "address": "",
       "city": "Alexandria",
-      "state": "Minnesota",
+      "state": "Minnesota"
     },
     "results": ["FBI ambush"],
     "participants": []
@@ -228,7 +238,7 @@
       "name": "",
       "address": "",
       "city": "Rochester",
-      "state": "New York",
+      "state": "New York"
     },
     "results": ["draft records destroyed", "FBI records destroyed", "US Attorney's records destroyed"],
     "participants": []
@@ -240,7 +250,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Buffalo",
-      "state": "New York",
+      "state": "New York"
     },
     "results": ["draft records destroyed"],
     "participants": []
@@ -252,7 +262,7 @@
       "name": "",
       "address": "",
       "city": "Camden",
-      "state": "New Jersey",
+      "state": "New Jersey"
     },
     "results": ["unknown"],
     "participants": []
@@ -264,7 +274,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Geneseo",
-      "state": "New York",
+      "state": "New York"
     },
     "results": ["700 draft records destroyed"],
     "participants": []
@@ -276,7 +286,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Silver Spring",
-      "state": "Maryland",
+      "state": "Maryland"
     },
     "results": ["draft records destroyed"],
     "participants": []
@@ -288,7 +298,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Akron",
-      "state": "Ohio",
+      "state": "Ohio"
     },
     "results": ["draft records destroyed"],
     "participants": []
@@ -300,7 +310,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Philadelphia",
-      "state": "PA",
+      "state": "PA"
     },
     "results": ["draft records destroyed"],
     "participants": []
@@ -312,7 +322,7 @@
       "name": "General Electric offices",
       "address": "",
       "city": "Washington",
-      "state": "DC",
+      "state": "DC"
     },
     "results": ["General Electric records destroyed"],
     "participants": []
@@ -324,13 +334,13 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Boston",
-      "state": "Massachusetts",
+      "state": "Massachusetts"
     },
     "results": ["several hundred draft records destroyed"],
     "participants": [
       "Williams, Suzi",
       "Femia, Frank"]
-  }
+  },
   {
     "title": "Media 4"
   }
