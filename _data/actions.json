@@ -1,0 +1,228 @@
+[
+  {
+    "date": "1966-02-24T05:00:00.000Z",
+    "title": "Big Lake One",
+    "location": {
+      "city": "Big Lake",
+      "state": "Minnesota",
+    },
+    "results": ["draft records destroyed"]
+  },
+  {
+    "date": "1967-10-27T04:00:00.000Z",
+    "title": "Baltimore Four",
+    "location": {
+      "city": "Baltimore",
+      "state": "Maryland",
+    },
+    "results": ["600 draft records destroyed"]
+  },
+  {
+    "date": "1968-05-17T04:00:00.000Z",
+    "title": "Catonsville Nine",
+    "location": {
+      "city": "Catonsville",
+      "state": "Maryland",
+    },
+    "results": ["378 draft records destroyed"]
+  },
+  {
+    "date": "1968-09-14T04:00:00.000Z",
+    "title": "Milwaukee 14",
+    "location": {
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+    },
+    "results": ["10,000 draft records destroyed"]
+  },
+  {
+    "date": "1969-03-22T05:00:00.000Z",
+    "title": "D.C. 9",
+    "location": {
+      "city": "Washington",
+      "state": "District of Columbia",
+    },
+    "type": "Dow Chemical's offices",
+    "results": ["unknown"]
+  },
+  {
+    "date": "1969-05-20T04:00:00.000Z",
+    "title": "Pasadena 3",
+    "location": {
+      "city": "Pasadena",
+      "state": "California",
+    },
+    "results": ["500 draft records destroyed"]
+  },
+  {
+    "date": "1969-05-21T04:00:00.000Z",
+    "title": "Silver Spring 3",
+    "location": {
+      "city": "Silver Spring",
+      "state": "Maryland",
+    },
+    "results": ["200,000 draft records destroyed", "equipment destroyed"]
+  },
+  {
+    "date": "1969-05-25T04:00:00.000Z",
+    "title": "Chicago 15",
+    "location": {
+      "city": "Chicago",
+      "state": "Illinois",
+    },
+    "results": ["40,000 draft records destroyed"]
+  },
+  {
+    "date": "1969-07-02T04:00:00.000Z",
+    "title": "Women Against Daddy Warbucks",
+    "location": {
+      "city": "New York",
+      "state": "New York",
+    },
+    "results": ["6,500 draft records destroyed", "cross reference files destroyed", "1-A key on typewriters removed"]
+  },
+  {
+    "date": "1969-08-02T04:00:00.000Z",
+    "title": "New York 8",
+    "location": {
+      "city": "Bronx",
+      "state": "New York",
+    },
+    "results": ["75,000 draft records destroyed"]
+  },
+  {
+    "date": "1969-08-15T04:00:00.000Z",
+    "title": "New York 8",
+    "location": {
+      "city": "Jamaica",
+      "state": "New York",
+    },
+    "results": ["5,000 draft records destroyed"]
+  },
+  {
+    "date": "1969-11-01T05:00:00.000Z",
+    "title": "Beaver 55",
+    "location": {
+      "city": "Indianapolis",
+      "state": "Indiana",
+    },
+    "results": ["records of 44 draft boards destroyed"]
+  },
+  {
+    "date": "1969-11-02T05:00:00.000Z",
+    "title": "D.C. 541/2",
+    "location": {
+      "city": "Washington",
+      "state": "District of Columbia",
+    },
+    "results": ["files of corporation destroyed"]
+  },
+  {
+    "date": "1969-11-07T05:00:00.000Z",
+    "title": "Beaver 55",
+    "location": {
+      "city": "Midland",
+      "state": "Michigan",
+    },
+    "results": ["magnetic tapes erased"]
+  },
+  {
+    "date": "1970-02-28T05:00:00.000Z",
+    "title": "Beaver 55",
+    "location": {
+      "city": "St. Paul",
+      "state": "Minnesota",
+    },
+    "results": ["10,000 draft records destroyed", "equipment destroyed"]
+  },
+  {
+    "date": "1970-07-10T04:00:00.000Z",
+    "title": "Minnesota 8",
+    "location": {
+      "city": "Alexandria",
+      "state": "Minnesota",
+    },
+    "results": ["FBI ambush"]
+  },
+  {
+    "date": "1970-09-06T04:00:00.000Z",
+    "title": "Flower City Conspiracy",
+    "location": {
+      "city": "Rochester",
+      "state": "New York",
+    },
+    "results": ["draft records destroyed", "FBI records destroyed", "US Attorney's records destroyed"]
+  },
+  {
+    "date": "1971-08-21T04:00:00.000Z",
+    "title": "Buffalo 5",
+    "location": {
+      "city": "Buffalo",
+      "state": "New York",
+    },
+    "results": ["draft records destroyed"]
+  },
+  {
+    "date": "1971-08-22T04:00:00.000Z",
+    "title": "Camden 28",
+    "location": {
+      "city": "Camden",
+      "state": "New Jersey",
+    },
+    "results": []
+  },
+  {
+    "date": "1971-10-28T04:00:00.000Z",
+    "title": "New and Improved East Coast Conspiracy to Save Lives",
+    "location": {
+      "city": "Geneseo",
+      "state": "New York",
+    },
+    "results": ["700 draft records destroyed"]
+  },
+  {
+    "date": "1969-01-21T05:00:00.000Z",
+    "title": "Silver Spring 3",
+    "location": {
+      "city": "Silver Spring",
+      "state": "Maryland",
+    },
+    "results": ["draft records destroyed"]
+  },
+  {
+    "date": "1969-10-01T04:00:00.000Z",
+    "title": "Cleveland 2",
+    "location": {
+      "city": "Akron",
+      "state": "Ohio",
+    },
+    "results": ["draft records destroyed"]
+  },
+  {
+    "date": "1970-02-06T04:00:00.000Z",
+    "title": "East Coast Conspiracy to Save Lives",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA",
+    },
+    "results": ["draft records destroyed"]
+  },
+  {
+    "date": "1970-02-07T04:00:00.000Z",
+    "title": "East Coast Conspiracy to Save Lives",
+    "location": {
+      "city": "Washington",
+      "state": "DC",
+    },
+    "results": ["General Electric records destroyed"]
+  },
+  {
+    "date": "1968-06-04T04:00:00.000Z",
+    "title": "Boston 2",
+    "location": {
+      "city": "Boston",
+      "state": "Massachusetts",
+    },
+    "results": ["several hundred draft records destroyed"]
+  }
+]

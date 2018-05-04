@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    <div class="container-fluid">
+
+    <h1 class="display-1 text-center">Draft Board Raids</h1>
+
+    <main class="row" aria-label="Content">
+      <div class="col-10 offset-1">
+        {% for file in site.data %}
+          {% if file[0] == 'actions' %}
+            {% assign table_data = file[1] %}
+          {% endif %}
+        {% endfor %}
+
+        <table class="table table-striped table-sm" id="raid-table">
+          <thead class="thead-dark">
+            <tr>
+              <th>Title</th>
+              <th>Date</th>
+              <th>Location</th>
+              <th>Result</th>
+            </tr>
+          </thead>
+          <tbody>
+          {% for action in table_data %}
+          <tr>
+            <td>{{ action.title }}</td>
+            <td>{{ action.date | date: "%B %-d, %Y" }}</td>
+            <td>{% if action.location.city != "" %}{{ action.location.city }}, {{ action.location.state }}{% endif %}</td>
+            <td>{% for result in action.results %}{{result}}{% unless forloop.last %}<br/>{% endunless %}{% endfor %}</td>
+          </tr>
+          {% endfor %}
+          </tbody>
+        </table>
+
+        <div id="timeline"></div>
+
+      </div>
+    </main>
+
+    <script src="assets/jQuery/jquery-2.2.3.min.js"></script>
+    <script src="assets/chartjs/Chart.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+    <script src="https://cdn.datatables.net/plug-ins/1.10.16/sorting/datetime-moment.js"></script>
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+      $.fn.dataTable.moment( 'MMMM D, YYYY' );
+      $('#raid-table').DataTable({
+        'paging'      : false,
+        'lengthChange': false,
+        'searching'   : false,
+        'ordering'    : true,
+        'info'        : true,
+        'autoWidth'   : true,
+      });
+    });
+    </script>
+
+  </body>
+
+</html>
