@@ -42,7 +42,16 @@
             {% endfor %}
             </tbody>
           </table>
+
+          <h4 class="mt-4">Data</h4>
+          <div class="card">
+            <code>
+              {{table_data | jsonify}}
+            </code>
+          </div>
+
         </div>
+
 
       </main>
     </div>
