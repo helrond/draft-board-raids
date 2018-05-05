@@ -6,49 +6,64 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Elk River",
-      "state": "Minnesota"
+      "state": "Minnesota",
+      "latitude": 45.3377,
+      "longitude": -93.5691
     },
     "results": ["draft records destroyed"],
-    "participants": ["Bondhus, Barry"]
+    "participants": {
+      "number": 1,
+      "names": ["Bondhus, Barry"]
+    }
   },
   {
     "date": "1967-10-27T04:00:00.000Z",
     "title": "Baltimore Four",
     "location": {
       "name": "Selective Service Board at the Customs House",
-      "address": "",
+      "address": "40 S. Gay Street",
       "city": "Baltimore",
-      "state": "Maryland"
+      "state": "Maryland",
+      "latitude": 39.288333,
+      "longitude": -76.609444
     },
     "results": ["600 draft records destroyed"],
-    "participants": [
-      "Eberhardt, David",
-      "Mengel, James",
-      "Lewis, Tom",
-      "Berrigan, Philip"
-    ]
+    "participants": {
+      "number": 4,
+      "names": [
+        "Eberhardt, David",
+        "Mengel, James",
+        "Lewis, Tom",
+        "Berrigan, Philip"
+      ]
+    }
   },
   {
     "date": "1968-05-17T04:00:00.000Z",
     "title": "Catonsville Nine",
     "location": {
       "name": "Selective Service Board",
-      "address": "",
+      "address": "1010 Frederick Road",
       "city": "Catonsville",
-      "state": "Maryland"
+      "state": "Maryland",
+      "latitude": 39.270695,
+      "longitude": -76.739117
     },
     "results": ["378 draft records destroyed"],
-    "participants": [
-      "Lewis, Tom",
-      "Berrigan, Philip",
-      "Berrigan, Daniel",
-      "Melville, Tom",
-      "Melville, Margarita",
-      "Moylan, Mary",
-      "Mische, George",
-      "Darst, David",
-      "Hogan, Tom"
-    ]
+    "participants": {
+      "number": 9,
+      "names": [
+        "Lewis, Tom",
+        "Berrigan, Philip",
+        "Berrigan, Daniel",
+        "Melville, Tom",
+        "Melville, Margarita",
+        "Moylan, Mary",
+        "Mische, George",
+        "Darst, David",
+        "Hogan, Tom"
+      ]
+    }
   },
   {
     "date": "1968-09-24T04:00:00.000Z",
@@ -57,47 +72,57 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Milwaukee",
-      "state": "Wisconsin"
+      "state": "Wisconsin",
+      "latitude": 43.0389,
+      "longitude": -87.9065
     },
     "results": ["10,000 draft records destroyed"],
-    "participants": [
-      "Gardner, Jerry",
-      "Graf, Bob",
-      "Forest, Jim",
-      "Rosebaugh, Larry",
-      "O'Leary, Basil",
-      "Higgenbotham, John",
-      "Cotton, Donald",
-      "Harney, James",
-      "Janicke, Alfred",
-      "Ogile, Fred",
-      "Cullen, Michael",
-      "Mullaney, Tony",
-      "Cunnane, Robert",
-      "Marvy, Doug"
-    ]
+    "participants": {
+      "number": 14,
+      "names": [
+        "Gardner, Jerry",
+        "Graf, Bob",
+        "Forest, Jim",
+        "Rosebaugh, Larry",
+        "O'Leary, Basil",
+        "Higgenbotham, John",
+        "Cotton, Donald",
+        "Harney, James",
+        "Janicke, Alfred",
+        "Ogile, Fred",
+        "Cullen, Michael",
+        "Mullaney, Tony",
+        "Cunnane, Robert",
+        "Marvy, Doug"
+      ]
+    }
   },
   {
     "date": "1969-03-22T05:00:00.000Z",
     "title": "D.C. 9",
     "location": {
-      "name": "Dow Chemical's offices",
-      "address": "1030-15th Street, N.W.",
+      "name": "Dow Chemical offices",
+      "address": "1030 15th Street, N.W.",
       "city": "Washington",
-      "state": "District of Columbia"
+      "state": "District of Columbia",
+      "latitude": 38.9034383,
+      "longitude": -77.0394146
     },
     "results": ["unknown"],
-    "participants": [
-      "Begin, Robert",
-      "Malone, JoAnn",
-      "Melville, Arthur",
-      "O'Rourke, Joseph",
-      "Moloney, Dennis",
-      "Slaski, Michael",
-      "Dougherty, Michael",
-      "Melville, Catherine",
-      "Meyer, Bernie"
-    ]
+    "participants": {
+      "number": 9,
+      "names": [
+        "Begin, Robert",
+        "Malone, JoAnn",
+        "Melville, Arthur",
+        "O'Rourke, Joseph",
+        "Moloney, Dennis",
+        "Slaski, Michael",
+        "Dougherty, Michael",
+        "Melville, Catherine",
+        "Meyer, Bernie"
+      ]
+    }
   },
   {
     "date": "1969-05-20T04:00:00.000Z",
@@ -106,12 +131,14 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Pasadena",
-      "state": "California"
+      "state": "California",
+      "latitude": 34.1478,
+      "longitude": -118.1445
     },
     "results": ["600 draft records destroyed"],
-    "participants": [
-      "unidentified actors"
-    ]
+    "participants": {
+      "number": 3,
+      "names": []}
   },
   {
     "date": "1969-05-21T04:00:00.000Z",
@@ -120,14 +147,19 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Silver Spring",
-      "state": "Maryland"
+      "state": "Maryland",
+      "latitude": 38.9907,
+      "longitude": -77.0261
     },
     "results": ["200,000 draft records destroyed", "equipment destroyed"],
-    "participants": [
-      "Bayless, Les",
-      "Bayless, John",
-      "Bransome, Michael"
-    ]
+    "participants": {
+      "number": 3,
+      "names": [
+        "Bayless, Les",
+        "Bayless, John",
+        "Bransome, Michael"
+      ]
+    }
   },
   {
     "date": "1969-05-25T04:00:00.000Z",
@@ -136,16 +168,21 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Chicago",
-      "state": "Illinois"
+      "state": "Illinois",
+      "latitude": 41.8781,
+      "longitude": -87.6298
     },
     "results": ["40,000 draft records destroyed"],
-    "participants": [
-      "Quint, Linda",
-      "Phillips, John",
-      "Berrigan, Philip",
-      "Mulligan, Joe",
-      "unidentified actors"
-    ]
+    "participants": {
+      "number": 15,
+      "names": [
+        "Quint, Linda",
+        "Phillips, John",
+        "Berrigan, Philip",
+        "Mulligan, Joe",
+        "unidentified actors"
+      ]
+    }
   },
   {
     "date": "1969-07-02T04:00:00.000Z",
@@ -154,21 +191,26 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "New York",
-      "state": "New York"
+      "state": "New York",
+      "latitude": 40.7128,
+      "longitude": -74.0060
     },
     "results": [
       "6,500 draft records destroyed",
       "cross reference files destroyed",
       "1-A key on typewriters removed"],
-    "participants": [
-      "Geddes, Maggie",
-      "Czarnik, Kathy",
-      "Boskey, Jill",
-      "Green, Valentine",
-      "Kennedy, Pat",
-      "Forest Orell, Linda",
-      "Webster, Barbara"
-    ]
+    "participants": {
+      "number": 7,
+      "names": [
+        "Geddes, Maggie",
+        "Czarnik, Kathy",
+        "Boskey, Jill",
+        "Green, Valentine",
+        "Kennedy, Pat",
+        "Forest Orell, Linda",
+        "Webster, Barbara"
+      ]
+    }
   },
   {
     "date": "1969-08-02T04:00:00.000Z",
@@ -177,10 +219,14 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Bronx",
-      "state": "New York"
+      "state": "New York",
+      "latitude": 40.8448,
+      "longitude": -73.8648
     },
     "results": ["75,000 draft records destroyed"],
-    "participants": []
+    "participants": {
+      "number": 8,
+      "names": []}
   },
   {
     "date": "1969-08-15T04:00:00.000Z",
@@ -189,10 +235,14 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Jamaica",
-      "state": "New York"
+      "state": "New York",
+      "latitude": 40.699783,
+      "longitude": -73.786026
     },
     "results": ["5,000 draft records destroyed"],
-    "participants": []
+    "participants": {
+      "number": 8,
+      "names": []}
   },
   {
     "date": "1969-11-01T05:00:00.000Z",
@@ -201,22 +251,30 @@
       "name": "",
       "address": "",
       "city": "Indianapolis",
-      "state": "Indiana"
+      "state": "Indiana",
+      "latitude": 39.7684,
+      "longitude": -86.1581
     },
     "results": ["records of 44 draft boards destroyed"],
-    "participants": []
+    "participants": {
+      "number": 8,
+      "names": []}
   },
   {
     "date": "1969-11-02T05:00:00.000Z",
     "title": "D.C. 541/2",
     "location": {
       "name": "Dow Chemical offices",
-      "address": "",
+      "address": "1030 15th Street, N.W.",
       "city": "Washington",
-      "state": "District of Columbia"
+      "state": "District of Columbia",
+      "latitude": 38.9034383,
+      "longitude": -77.0394146
     },
     "results": ["files of corporation destroyed"],
-    "participants": []
+    "participants": {
+      "number": 1,
+      "names": []}
   },
   {
     "date": "1969-11-07T05:00:00.000Z",
@@ -225,10 +283,14 @@
       "name": "",
       "address": "",
       "city": "Midland",
-      "state": "Michigan"
+      "state": "Michigan",
+      "latitude": ,
+      "longitude":
     },
     "results": ["magnetic tapes erased"],
-    "participants": []
+    "participants": {
+      "number": 8,
+      "names": []}
   },
   {
     "date": "1970-02-28T05:00:00.000Z",
@@ -237,10 +299,14 @@
       "name": "",
       "address": "",
       "city": "St. Paul",
-      "state": "Minnesota"
+      "state": "Minnesota",
+      "latitude": 43.6156,
+      "longitude": -84.2472
     },
     "results": ["10,000 draft records destroyed", "equipment destroyed"],
-    "participants": []
+    "participants": {
+      "number": 8,
+      "names": []}
   },
   {
     "date": "1970-07-10T04:00:00.000Z",
@@ -249,19 +315,24 @@
       "name": "",
       "address": "",
       "city": "Alexandria",
-      "state": "Minnesota"
+      "state": "Minnesota",
+      "latitude": 45.8848,
+      "longitude": -95.3777
     },
     "results": ["FBI ambush"],
-    "participants": [
-      "Beneke, Brad",
-      "Kroncke, Frank",
-      "Olson, Don",
-      "Simmons, Pete",
-      "Tilton, Bill",
-      "Therriault, Mike",
-      "Turchick, Chuck",
-      "Ulen, Cliff"
-    ]
+    "participants": {
+      "number": 8,
+      "names": [
+        "Beneke, Brad",
+        "Kroncke, Frank",
+        "Olson, Don",
+        "Simmons, Pete",
+        "Tilton, Bill",
+        "Therriault, Mike",
+        "Turchick, Chuck",
+        "Ulen, Cliff"
+      ]
+    }
   },
   {
     "date": "1970-09-06T04:00:00.000Z",
@@ -270,19 +341,24 @@
       "name": "",
       "address": "",
       "city": "Rochester",
-      "state": "New York"
+      "state": "New York",
+      "latitude": 43.1566,
+      "longitude": -77.6088
     },
     "results": ["draft records destroyed", "FBI records destroyed", "US Attorney's records destroyed"],
-    "participants": [
-      "Glick, Ted",
-      "Gilchrist, Joe",
-      "Squire, DeCourcy",
-      "Bonekemper, Wayse",
-      "Williams, Suzi",
-      "Nicholson, Joan",
-      "Meyerding, Jane",
-      "Callahan, Frank"
-    ]
+    "participants": {
+      "number": 8,
+      "names": [
+        "Glick, Ted",
+        "Gilchrist, Joe",
+        "Squire, DeCourcy",
+        "Bonekemper, Wayse",
+        "Williams, Suzi",
+        "Nicholson, Joan",
+        "Meyerding, Jane",
+        "Callahan, Frank"
+      ]
+    }
   },
   {
     "date": "1971-08-21T04:00:00.000Z",
@@ -291,10 +367,14 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Buffalo",
-      "state": "New York"
+      "state": "New York",
+      "latitude": 42.8864,
+      "longitude": -78.8784
     },
     "results": ["draft records destroyed"],
-    "participants": []
+    "participants": {
+      "number": 5,
+      "names": []}
   },
   {
     "date": "1971-08-22T04:00:00.000Z",
@@ -303,38 +383,43 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Camden",
-      "state": "New Jersey"
+      "state": "New Jersey",
+      "latitude": 39.9259,
+      "longitude": -75.1196
     },
     "results": ["unknown"],
-    "participants": [
-      "Abdoo, Jayma",
-      "Anderson, William",
-      "Billman, Milo",
-      "Buckalew, Terry",
-      "Couming, Paul",
-      "Dixon, Eugene",
-      "Doyle, Michael",
-      "Dunham, Anne",
-      "Fordi, Peter",
-      "Forsyth, Keith",
-      "Giocondo, Michael",
-      "Good, Robert",
-      "Grady, John",
-      "Innes, Margaret",
-      "Madden, Francis Mel",
-      "Moccia, Lianne",
-      "Musi, Barry",
-      "Murphy, Edward",
-      "Pommersheim, Frank",
-      "Reilly, Joan",
-      "Reilly, Rosemary",
-      "Ricci, Anita",
-      "Ridolfi, Kathleen",
-      "Shemeley, Martha",
-      "Swinglish, John",
-      "Tosi, Sarah",
-      "Williamson, Robert"
-    ]
+    "participants": {
+      "number": 28,
+      "names": [
+        "Abdoo, Jayma",
+        "Anderson, William",
+        "Billman, Milo",
+        "Buckalew, Terry",
+        "Couming, Paul",
+        "Dixon, Eugene",
+        "Doyle, Michael",
+        "Dunham, Anne",
+        "Fordi, Peter",
+        "Forsyth, Keith",
+        "Giocondo, Michael",
+        "Good, Robert",
+        "Grady, John",
+        "Innes, Margaret",
+        "Madden, Francis Mel",
+        "Moccia, Lianne",
+        "Musi, Barry",
+        "Murphy, Edward",
+        "Pommersheim, Frank",
+        "Reilly, Joan",
+        "Reilly, Rosemary",
+        "Ricci, Anita",
+        "Ridolfi, Kathleen",
+        "Shemeley, Martha",
+        "Swinglish, John",
+        "Tosi, Sarah",
+        "Williamson, Robert"
+      ]
+    }
   },
   {
     "date": "1971-10-28T04:00:00.000Z",
@@ -343,10 +428,14 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Geneseo",
-      "state": "New York"
+      "state": "New York",
+      "latitude": 42.7959,
+      "longitude": -77.8169
     },
     "results": ["700 draft records destroyed"],
-    "participants": []
+    "participants": {
+      "number": 11,
+      "names": []}
   },
   {
     "date": "1969-01-21T05:00:00.000Z",
@@ -355,10 +444,14 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Silver Spring",
-      "state": "Maryland"
+      "state": "Maryland",
+      "latitude": 38.9907,
+      "longitude": -77.0261
     },
     "results": ["draft records destroyed"],
-    "participants": []
+    "participants": {
+      "number": 3,
+      "names": []}
   },
   {
     "date": "1969-10-01T04:00:00.000Z",
@@ -367,10 +460,14 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Akron",
-      "state": "Ohio"
+      "state": "Ohio",
+      "latitude": 41.0814,
+      "longitude": -81.5190
     },
     "results": ["draft records destroyed"],
-    "participants": []
+    "participants": {
+      "number": 2,
+      "names": []}
   },
   {
     "date": "1970-02-06T04:00:00.000Z",
@@ -379,22 +476,27 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Philadelphia",
-      "state": "PA"
+      "state": "PA",
+      "latitude": 39.9526,
+      "longitude": -75.1652
     },
     "results": ["draft records destroyed"],
-    "participants": [
-      "Wenderoth, Joe",
-      "Panella, Mike",
-      "Linden, Phillip",
-      "Lacey, Charlotte",
-      "Glick, Ted",
-      "Fordi, Peter",
-      "Finnegan, John",
-      "Davis, Susan",
-      "Cordes, Susan",
-      "Bedwell, Richard",
-      "Assero, Nancy"
-    ]
+    "participants": {
+      "number": 11,
+      "names": [
+        "Wenderoth, Joe",
+        "Panella, Mike",
+        "Linden, Phillip",
+        "Lacey, Charlotte",
+        "Glick, Ted",
+        "Fordi, Peter",
+        "Finnegan, John",
+        "Davis, Susan",
+        "Cordes, Susan",
+        "Bedwell, Richard",
+        "Assero, Nancy"
+      ]
+    }
   },
   {
     "date": "1970-02-07T04:00:00.000Z",
@@ -403,22 +505,27 @@
       "name": "General Electric offices",
       "address": "",
       "city": "Washington",
-      "state": "DC"
+      "state": "DC",
+      "latitude": 38.9072,
+      "longitude": -77.0369
     },
     "results": ["General Electric records destroyed"],
-    "participants": [
-      "Wenderoth, Joe",
-      "Panella, Mike",
-      "Linden, Phillip",
-      "Lacey, Charlotte",
-      "Glick, Ted",
-      "Fordi, Peter",
-      "Finnegan, John",
-      "Davis, Susan",
-      "Cordes, Susan",
-      "Bedwell, Richard",
-      "Assero, Nancy"
-    ]
+    "participants": {
+      "number": 11,
+      "names": [
+        "Wenderoth, Joe",
+        "Panella, Mike",
+        "Linden, Phillip",
+        "Lacey, Charlotte",
+        "Glick, Ted",
+        "Fordi, Peter",
+        "Finnegan, John",
+        "Davis, Susan",
+        "Cordes, Susan",
+        "Bedwell, Richard",
+        "Assero, Nancy"
+      ]
+    }
   },
   {
     "date": "1968-06-04T04:00:00.000Z",
@@ -427,15 +534,43 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Boston",
-      "state": "Massachusetts"
+      "state": "Massachusetts",
+      "latitude": 42.3601,
+      "longitude": -71.0589
     },
     "results": ["several hundred draft records destroyed"],
-    "participants": [
-      "Williams, Suzi",
-      "Femia, Frank"
-    ]
+    "participants": {
+      "number": 2,
+      "names": [
+        "Williams, Suzi",
+        "Femia, Frank"
+      ]
+    }
   },
   {
-    "title": "Media 4"
+    "date": "1971-03-08T04:00:00.000Z",
+    "title": "Media raid",
+    "location": {
+      "name": "FBI office",
+      "address": "1 Veterans Square",
+      "city": "Media",
+      "state": "Pennsylvania",
+      "latitude": 39.919069,
+      "longitude": -75.391644
+    },
+    "results": ["1,000 classified documents stolen and published"],
+    "participants": {
+      "number": 8,
+      "names": [
+        "Forsyth, Keith",
+        "Raines, Bonnie",
+        "Raines, John",
+        "Williamson, Robert",
+        "Davidon, William",
+        "Feingold, Judi",
+        "Smith, Susan",
+        "Durst, Ron"
+      ]
+    }
   }
 ]
