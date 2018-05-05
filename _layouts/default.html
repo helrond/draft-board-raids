@@ -28,7 +28,6 @@
                 <th>Title</th>
                 <th>Date</th>
                 <th>Location</th>
-                <th>Participants</th>
                 <th>Result</th>
               </tr>
             </thead>
@@ -38,7 +37,6 @@
               <td>{{ action.title }}</td>
               <td>{{ action.date | date: "%B %-d, %Y" }}</td>
               <td>{% if action.location.city != "" %}{{ action.location.city }}, {{ action.location.state }}{% endif %}</td>
-              <td>{% if action.participants %}{% assign participants = action.participants | sort %}{% for person in participants %}{{person}}{% unless forloop.last %}<br/>{% endunless %}{% endfor %}{% endif %}</td>
               <td>{% for result in action.results %}{{result}}{% unless forloop.last %}<br/>{% endunless %}{% endfor %}</td>
             </tr>
             {% endfor %}

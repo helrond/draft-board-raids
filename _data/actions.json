@@ -25,7 +25,8 @@
       "Eberhardt, David",
       "Mengel, James",
       "Lewis, Tom",
-      "Berrigan, Philip"]
+      "Berrigan, Philip"
+    ]
   },
   {
     "date": "1968-05-17T04:00:00.000Z",
@@ -46,7 +47,8 @@
       "Moylan, Mary",
       "Mische, George",
       "Darst, David",
-      "Hogan, Tom"]
+      "Hogan, Tom"
+    ]
   },
   {
     "date": "1968-09-24T04:00:00.000Z",
@@ -72,7 +74,8 @@
       "Cullen, Michael",
       "Mullaney, Tony",
       "Cunnane, Robert",
-      "Marvy, Doug"]
+      "Marvy, Doug"
+    ]
   },
   {
     "date": "1969-03-22T05:00:00.000Z",
@@ -106,7 +109,9 @@
       "state": "California"
     },
     "results": ["600 draft records destroyed"],
-    "participants": []
+    "participants": [
+      "unidentified actors"
+    ]
   },
   {
     "date": "1969-05-21T04:00:00.000Z",
@@ -121,7 +126,8 @@
     "participants": [
       "Bayless, Les",
       "Bayless, John",
-      "Bransome, Michael"]
+      "Bransome, Michael"
+    ]
   },
   {
     "date": "1969-05-25T04:00:00.000Z",
@@ -133,7 +139,13 @@
       "state": "Illinois"
     },
     "results": ["40,000 draft records destroyed"],
-    "participants": []
+    "participants": [
+      "Quint, Linda",
+      "Phillips, John",
+      "Berrigan, Philip",
+      "Mulligan, Joe",
+      "unidentified actors"
+    ]
   },
   {
     "date": "1969-07-02T04:00:00.000Z",
@@ -148,7 +160,15 @@
       "6,500 draft records destroyed",
       "cross reference files destroyed",
       "1-A key on typewriters removed"],
-    "participants": ["Geddes, Maggie"]
+    "participants": [
+      "Geddes, Maggie",
+      "Czarnik, Kathy",
+      "Boskey, Jill",
+      "Green, Valentine",
+      "Kennedy, Pat",
+      "Forest Orell, Linda",
+      "Webster, Barbara"
+    ]
   },
   {
     "date": "1969-08-02T04:00:00.000Z",
@@ -313,7 +333,8 @@
       "Shemeley, Martha",
       "Swinglish, John",
       "Tosi, Sarah",
-      "Williamson, Robert"]
+      "Williamson, Robert"
+    ]
   },
   {
     "date": "1971-10-28T04:00:00.000Z",
@@ -372,7 +393,8 @@
       "Davis, Susan",
       "Cordes, Susan",
       "Bedwell, Richard",
-      "Assero, Nancy"]
+      "Assero, Nancy"
+    ]
   },
   {
     "date": "1970-02-07T04:00:00.000Z",
@@ -395,7 +417,8 @@
       "Davis, Susan",
       "Cordes, Susan",
       "Bedwell, Richard",
-      "Assero, Nancy"]
+      "Assero, Nancy"
+    ]
   },
   {
     "date": "1968-06-04T04:00:00.000Z",
@@ -409,7 +432,8 @@
     "results": ["several hundred draft records destroyed"],
     "participants": [
       "Williams, Suzi",
-      "Femia, Frank"]
+      "Femia, Frank"
+    ]
   },
   {
     "title": "Media 4"
