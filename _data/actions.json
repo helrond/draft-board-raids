@@ -105,7 +105,7 @@
       "city": "Pasadena",
       "state": "California"
     },
-    "results": ["500 draft records destroyed"],
+    "results": ["600 draft records destroyed"],
     "participants": []
   },
   {
@@ -118,7 +118,10 @@
       "state": "Maryland"
     },
     "results": ["200,000 draft records destroyed", "equipment destroyed"],
-    "participants": []
+    "participants": [
+      "Bayless, Les",
+      "Bayless, John",
+      "Bransome, Michael"]
   },
   {
     "date": "1969-05-25T04:00:00.000Z",
@@ -145,7 +148,7 @@
       "6,500 draft records destroyed",
       "cross reference files destroyed",
       "1-A key on typewriters removed"],
-    "participants": []
+    "participants": ["Geddes, Maggie"]
   },
   {
     "date": "1969-08-02T04:00:00.000Z",
@@ -229,7 +232,16 @@
       "state": "Minnesota"
     },
     "results": ["FBI ambush"],
-    "participants": []
+    "participants": [
+      "Beneke, Brad",
+      "Kroncke, Frank",
+      "Olson, Don",
+      "Simmons, Pete",
+      "Tilton, Bill",
+      "Therriault, Mike",
+      "Turchick, Chuck",
+      "Ulen, Cliff"
+    ]
   },
   {
     "date": "1970-09-06T04:00:00.000Z",
@@ -241,7 +253,16 @@
       "state": "New York"
     },
     "results": ["draft records destroyed", "FBI records destroyed", "US Attorney's records destroyed"],
-    "participants": []
+    "participants": [
+      "Glick, Ted",
+      "Gilchrist, Joe",
+      "Squire, DeCourcy",
+      "Bonekemper, Wayse",
+      "Williams, Suzi",
+      "Nicholson, Joan",
+      "Meyerding, Jane",
+      "Callahan, Frank"
+    ]
   },
   {
     "date": "1971-08-21T04:00:00.000Z",
@@ -259,13 +280,40 @@
     "date": "1971-08-22T04:00:00.000Z",
     "title": "Camden 28",
     "location": {
-      "name": "",
+      "name": "Selective Service Board",
       "address": "",
       "city": "Camden",
       "state": "New Jersey"
     },
     "results": ["unknown"],
-    "participants": []
+    "participants": [
+      "Abdoo, Jayma",
+      "Anderson, William",
+      "Billman, Milo",
+      "Buckalew, Terry",
+      "Couming, Paul",
+      "Dixon, Eugene",
+      "Doyle, Michael",
+      "Dunham, Anne",
+      "Fordi, Peter",
+      "Forsyth, Keith",
+      "Giocondo, Michael",
+      "Good, Robert",
+      "Grady, John",
+      "Innes, Margaret",
+      "Madden, Francis Mel",
+      "Moccia, Lianne",
+      "Musi, Barry",
+      "Murphy, Edward",
+      "Pommersheim, Frank",
+      "Reilly, Joan",
+      "Reilly, Rosemary",
+      "Ricci, Anita",
+      "Ridolfi, Kathleen",
+      "Shemeley, Martha",
+      "Swinglish, John",
+      "Tosi, Sarah",
+      "Williamson, Robert"]
   },
   {
     "date": "1971-10-28T04:00:00.000Z",
@@ -313,7 +361,18 @@
       "state": "PA"
     },
     "results": ["draft records destroyed"],
-    "participants": []
+    "participants": [
+      "Wenderoth, Joe",
+      "Panella, Mike",
+      "Linden, Phillip",
+      "Lacey, Charlotte",
+      "Glick, Ted",
+      "Fordi, Peter",
+      "Finnegan, John",
+      "Davis, Susan",
+      "Cordes, Susan",
+      "Bedwell, Richard",
+      "Assero, Nancy"]
   },
   {
     "date": "1970-02-07T04:00:00.000Z",
@@ -325,7 +384,18 @@
       "state": "DC"
     },
     "results": ["General Electric records destroyed"],
-    "participants": []
+    "participants": [
+      "Wenderoth, Joe",
+      "Panella, Mike",
+      "Linden, Phillip",
+      "Lacey, Charlotte",
+      "Glick, Ted",
+      "Fordi, Peter",
+      "Finnegan, John",
+      "Davis, Susan",
+      "Cordes, Susan",
+      "Bedwell, Richard",
+      "Assero, Nancy"]
   },
   {
     "date": "1968-06-04T04:00:00.000Z",
