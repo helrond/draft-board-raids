@@ -10,11 +10,39 @@
       "latitude": 45.3377,
       "longitude": -93.5691
     },
-    "results": ["draft records destroyed"],
+    "results": ["draft records destroyed", "human excrement poured"],
     "participants": {
-      "number": 1,
+      "count": 1,
       "names": ["Bondhus, Barry"]
-    }
+    },
+    "sources": [
+      {
+        "title": "The Ultra-Resistance",
+        "author": "du Plessix Gray, Francine",
+        "publication": "The New York Review",
+        "url": "https://www.nybooks.com/articles/1969/09/25/the-ultra-resistance/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Nearly 50 years later, draft protestor has no regrets",
+        "publication": "Elk City Star",
+        "author": "Aamodt, Britt",
+        "url": "https://www.hometownsource.com/elk_river_star_news/news/local/nearly-years-later-draft-protestor-has-no-regrets/article_a55ee516-e0fa-507a-98ae-bf3b6f4e1587.html",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "'No regrets' for resister who dumped human dung on draft files",
+        "publication": "Courage to Resist",
+        "url": "https://couragetoresist.org/barry-bondhus/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1967-10-27T04:00:00.000Z",
@@ -29,14 +57,35 @@
     },
     "results": ["600 draft records destroyed"],
     "participants": {
-      "number": 4,
+      "count": 4,
       "names": [
         "Eberhardt, David",
         "Mengel, James",
         "Lewis, Tom",
         "Berrigan, Philip"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "Baltimore Four",
+        "publication": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Philip_Berrigan#Baltimore_Four",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "The Ultra-Resistance",
+        "author": "du Plessix Gray, Francine",
+        "publication": "The New York Review",
+        "url": "https://www.nybooks.com/articles/1969/09/25/the-ultra-resistance/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1968-05-17T04:00:00.000Z",
@@ -51,7 +100,7 @@
     },
     "results": ["378 draft records destroyed"],
     "participants": {
-      "number": 9,
+      "count": 9,
       "names": [
         "Lewis, Tom",
         "Berrigan, Philip",
@@ -63,7 +112,35 @@
         "Darst, David",
         "Hogan, Tom"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "Catonsville Nine",
+        "author": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Catonsville_Nine",
+        "dateAccessed": "2021-12-05",
+      },
+      {
+        "title": "The Ultra-Resistance",
+        "author": "du Plessix Gray, Francine",
+        "publication": "The New York Review",
+        "url": "https://www.nybooks.com/articles/1969/09/25/the-ultra-resistance/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Inattention to accuracy about 'Catonsville Nine' distorts history",
+        "author": "Mische, George",
+        "publication": "National Catholic Reporter",
+        "url": "https://www.ncronline.org/news/justice/inattention-accuracy-about-catonsville-nine-distorts-history",
+        "dateAccessed": "2021-12-06"
+      }
+    ]
   },
   {
     "date": "1968-09-24T04:00:00.000Z",
@@ -78,7 +155,7 @@
     },
     "results": ["10,000 draft records destroyed"],
     "participants": {
-      "number": 14,
+      "count": 14,
       "names": [
         "Gardner, Jerry",
         "Graf, Bob",
@@ -95,7 +172,21 @@
         "Cunnane, Robert",
         "Marvy, Doug"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "Milwaukee Fourteen",
+        "author": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Milwaukee_Fourteen",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1969-03-22T05:00:00.000Z",
@@ -110,7 +201,7 @@
     },
     "results": ["unknown"],
     "participants": {
-      "number": 9,
+      "count": 9,
       "names": [
         "Begin, Robert",
         "Malone, JoAnn",
@@ -122,7 +213,46 @@
         "Melville, Catherine",
         "Meyer, Bernie"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "D.C. Nine",
+        "publication": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/D.C._Nine",
+        "dateAccessed": "2021-12-06"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Five Priests Raid Dow Office",
+        "publication": "The Catholic Advocate",
+        "url": "https://thecatholicnewsarchive.org/?a=d&d=ca19690327-01.2.19&e=-------en-20--1--txt-txIN--------",
+        "dateAccessed": "2021-12-06"
+      },
+      {
+        "title": "'Dow Shalt Not Kill': The Story of the D.C. Nine",
+        "author": "Carroll, Frank",
+        "publication": "Boundary Stones",
+        "url": "https://boundarystones.weta.org/2020/01/23/dow-shalt-not-kill-story-dc-nine",
+        "dateAccessed": "2021-12-06"
+      },
+      {
+        "title": "March 22, 1969: DC 9 Protest Dow Chemical Production of Napalm",
+        "publication": "Zinn Education Project",
+        "url": "https://www.zinnedproject.org/news/tdih/dc-9-protest-napalm-dow",
+        "dateAccessed": "2021-12-06"
+      },
+      {
+        "title": "Hit & Stay: 1967-75 (photo album)",
+        "publication": "Washington Area Spark",
+        "url": "https://www.flickr.com/photos/washington_area_spark/albums/72157655654083652/with/39654727192/",
+        "dateAccessed": "2021-12-06"
+      }
+    ]
   },
   {
     "date": "1969-05-20T04:00:00.000Z",
@@ -137,8 +267,24 @@
     },
     "results": ["600 draft records destroyed"],
     "participants": {
-      "number": 3,
-      "names": []}
+      "count": 3,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "The Ultra-Resistance",
+        "author": "du Plessix Gray, Francine",
+        "publication": "The New York Review",
+        "url": "https://www.nybooks.com/articles/1969/09/25/the-ultra-resistance/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1969-05-21T04:00:00.000Z",
@@ -153,13 +299,34 @@
     },
     "results": ["200,000 draft records destroyed", "equipment destroyed"],
     "participants": {
-      "number": 3,
+      "count": 3,
       "names": [
         "Bayless, Les",
         "Bayless, John",
         "Bransome, Michael"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "Silver Spring Three",
+        "publication": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Silver_Spring_Three",
+        "dateAccessed": "2021-12-13"
+      },
+      {
+        "title": "They attacked a draft board office to protest the Vietnam War. Fifty years later, the fallout continues.",
+        "publication": "The Washington Post",
+        "author": "Bernard, Diane",
+        "url": "https://www.washingtonpost.com/history/2019/05/22/they-attacked-draft-board-office-protest-vietnam-war-fifty-years-later-fallout-continues/",
+        "dateAccessed": "2021-12-13"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1969-05-25T04:00:00.000Z",
@@ -174,15 +341,46 @@
     },
     "results": ["40,000 draft records destroyed"],
     "participants": {
-      "number": 15,
+      "count": 15,
       "names": [
         "Quint, Linda",
         "Phillips, John",
-        "Berrigan, Philip",
         "Mulligan, Joe",
-        "unidentified actors"
+        "Chase, Fred",
+        "Durkin, Bill",
+        "Gargan, Ed",
+        "Katroscik, Margaret",
+        "Loll, John",
+        "Muse, Charlie",
+        "Hoffmans, Ed",
+        "Fullenkamp, Chuck",
+        "Pietra, John",
+        "Riddell, Nick",
+        "Smit, Tom",
+        "Sweeney, Bill"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "Chicago 15 (protest group)",
+        "publication": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chicago_15_(protest_group)",
+        "dateAccessed": "2021-12-13"
+      },
+      {
+        "title": "The Berrigan Affair: How It Evolved",
+        "author": "Kifner, John",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/21/archives/the-berrigan-affair-how-it-evolved-the-berrigan-affair-how-catholic.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1969-07-02T04:00:00.000Z",
@@ -200,7 +398,7 @@
       "cross reference files destroyed",
       "1-A key on typewriters removed"],
     "participants": {
-      "number": 7,
+      "count": 7,
       "names": [
         "Geddes, Maggie",
         "Czarnik, Kathy",
@@ -210,7 +408,21 @@
         "Forest Orell, Linda",
         "Webster, Barbara"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "Women Against Daddy Warbucks",
+        "publication": "Womyn's Word",
+        "url": "https://chrywomynsword.wordpress.com/2013/12/09/women-against-daddy-warbucks/",
+        "dateAccessed": "2021-12-13"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1969-08-02T04:00:00.000Z",
@@ -225,8 +437,24 @@
     },
     "results": ["75,000 draft records destroyed"],
     "participants": {
-      "number": 8,
-      "names": []}
+      "count": 8,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "The Ultra-Resistance",
+        "author": "du Plessix Gray, Francine",
+        "publication": "The New York Review",
+        "url": "https://www.nybooks.com/articles/1969/09/25/the-ultra-resistance/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1969-08-15T04:00:00.000Z",
@@ -241,8 +469,24 @@
     },
     "results": ["5,000 draft records destroyed"],
     "participants": {
-      "number": 8,
-      "names": []}
+      "count": 8,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "The Ultra-Resistance",
+        "author": "du Plessix Gray, Francine",
+        "publication": "The New York Review",
+        "url": "https://www.nybooks.com/articles/1969/09/25/the-ultra-resistance/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1969-11-01T05:00:00.000Z",
@@ -257,8 +501,32 @@
     },
     "results": ["records of 44 draft boards destroyed"],
     "participants": {
-      "number": 8,
-      "names": []}
+      "count": 8,
+      "names": [
+        "Mack, Paul",
+        "Trost, Tom",
+        "Donner, John",
+        "McNamara, Robert",
+        "McNamara, Connie",
+        "Williams, James",
+        "Kennedy, Jane",
+        "Mulert, Jo Ann"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Beaver 55 Guilty",
+        "publication": "Resist",
+        "url": "https://content.wisconsinhistory.org/digital/collection/p15932coll8/id/92625/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1969-11-02T05:00:00.000Z",
@@ -273,14 +541,23 @@
     },
     "results": ["files of corporation destroyed"],
     "participants": {
-      "number": 1,
-      "names": []}
+      "count": 1,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1969-11-07T05:00:00.000Z",
     "title": "Beaver 55",
     "location": {
-      "name": "",
+      "name": "Dow Chemical Company",
       "address": "",
       "city": "Midland",
       "state": "Michigan",
@@ -289,14 +566,43 @@
     },
     "results": ["magnetic tapes erased"],
     "participants": {
-      "number": 8,
-      "names": []}
+      "count": 8,
+      "names": [
+        "Donner, John",
+        "Trost, Tom",
+        "McNamara, Robert",
+        "Williams, James",
+        "Kennedy, Jane",
+        "Mack, Paul"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "American Women's Protest of the Vietnam War",
+        "publication": "Restaging War in the Western World: Noncombatant Experiences, 1890-Today",
+        "author": "Adams Moon, Penelope",
+        "url": "https://books.google.com/books?id=SXfHAAAAQBAJ&pg=PA164&lpg=PA164&dq=%22beaver+55%22+draft+board&source=bl&ots=kzWsaYFZSb&sig=ACfU3U1Ysr_9jryBHE4NZe5XMZgat_NWpw&hl=en&sa=X&ved=2ahUKEwiUwqrF7c30AhUvkIkEHfP9ArQQ6AF6BAgOEAM#v=onepage&q=%22beaver%2055%22%20draft%20board&f=false",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Beaver 55 Guilty",
+        "publication": "Resist",
+        "url": "https://content.wisconsinhistory.org/digital/collection/p15932coll8/id/92625/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
-    "date": "1970-02-28T05:00:00.000Z",
+    "date": "1970-02-28T09:30:00.000Z",
     "title": "Beaver 55",
     "location": {
-      "name": "",
+      "name": "St. Paul Post Office Building",
       "address": "",
       "city": "St. Paul",
       "state": "Minnesota",
@@ -305,14 +611,102 @@
     },
     "results": ["10,000 draft records destroyed", "equipment destroyed"],
     "participants": {
-      "number": 8,
-      "names": []}
+      "count": 15,
+      "names": [
+        "Turchick, Chuck",
+        "Mack, Paul"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Remembering the Beaver 55 draft-files action in Minnesota 50 years ago",
+        "author": "Turchick, Chuck",
+        "publication": "Minnesota Post",
+        "url": "https://www.minnpost.com/community-voices/2020/02/remembering-the-beaver-55-draft-files-action-in-minnesota-50-years-ago/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Attack of 'Beaver 55'",
+        "publication": "MN 70's",
+        "url": "https://mn70s.tumblr.com/post/18432203220/attack-of-beaver-55",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "'Beaver 55' Terms Self A 'Revolutionary'",
+        "author": "Doherty, Paul M.",
+        "publication": "The Indianapolis Star",
+        "url": "https://www.newspapers.com/clip/26359627/beaver-55-paul-mack-page-one/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "date": "1970-02-28T09:30:00.000Z",
+    "title": "Beaver 55",
+    "location": {
+      "name": "Hennepin County draft boards",
+      "address": "11th Street between Second and Third Avenue",
+      "city": "Minneapolis",
+      "state": "Minnesota",
+    },
+    "results": ["all the 1-A and 1-A-O files in 22 draft boards"],
+    "participants": {
+      "count": 8,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "Remembering the Beaver 55 draft-files action in Minnesota 50 years ago",
+        "author": "Turchick, Chuck",
+        "publication": "Minnesota Post",
+        "url": "https://www.minnpost.com/community-voices/2020/02/remembering-the-beaver-55-draft-files-action-in-minnesota-50-years-ago/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Attack of 'Beaver 55'",
+        "publication": "MN 70's",
+        "url": "https://mn70s.tumblr.com/post/18432203220/attack-of-beaver-55",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1970-07-10T04:00:00.000Z",
     "title": "Minnesota 8",
     "location": {
-      "name": "",
+      "name": "Draft board office",
+      "address": "",
+      "city": "Little Falls",
+      "state": "Minnesota",
+    },
+    "results": ["FBI ambush"],
+    "participants": {
+      "count": 2,
+      "names": [
+        "Kroncke, Frank",
+        "Therriault, Mike",
+      ]
+    },
+    "sources": [
+      {
+        "title": "Attack of 'Beaver 55'",
+        "publication": "MN 70's",
+        "url": "https://mn70s.tumblr.com/post/18432203220/attack-of-beaver-55",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Death Wins All Wars",
+        "author": "Holland, Daniel",
+        "url": "https://books.google.com/books?id=Vym-DwAAQBAJ&pg=PT213&lpg=PT213&dq=%22beaver+55%22+draft+board&source=bl&ots=vF_kurcavc&sig=ACfU3U0ELnCB6pfejNsQDA-WiHLxuORGYQ&hl=en&sa=X&ved=2ahUKEwiUwqrF7c30AhUvkIkEHfP9ArQQ6AF6BAgMEAM#v=onepage&q=%22beaver%2055%22%20draft%20board&f=false",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "date": "1970-07-10T04:00:00.000Z",
+    "title": "Minnesota 8",
+    "location": {
+      "name": "Draft board office",
       "address": "",
       "city": "Alexandria",
       "state": "Minnesota",
@@ -321,18 +715,96 @@
     },
     "results": ["FBI ambush"],
     "participants": {
-      "number": 8,
+      "count": 3,
       "names": [
-        "Beneke, Brad",
-        "Kroncke, Frank",
-        "Olson, Don",
-        "Simmons, Pete",
         "Tilton, Bill",
-        "Therriault, Mike",
         "Turchick, Chuck",
         "Ulen, Cliff"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "Attack of 'Beaver 55'",
+        "publication": "MN 70's",
+        "url": "https://mn70s.tumblr.com/post/18432203220/attack-of-beaver-55",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Death Wins All Wars",
+        "author": "Holland, Daniel",
+        "url": "https://books.google.com/books?id=Vym-DwAAQBAJ&pg=PT213&lpg=PT213&dq=%22beaver+55%22+draft+board&source=bl&ots=vF_kurcavc&sig=ACfU3U0ELnCB6pfejNsQDA-WiHLxuORGYQ&hl=en&sa=X&ved=2ahUKEwiUwqrF7c30AhUvkIkEHfP9ArQQ6AF6BAgMEAM#v=onepage&q=%22beaver%2055%22%20draft%20board&f=false",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "date": "1970-07-10T04:00:00.000Z",
+    "title": "Minnesota 8",
+    "location": {
+      "name": "Draft board office",
+      "address": "",
+      "city": "Winona",
+      "state": "Minnesota",
+    },
+    "results": ["FBI ambush"],
+    "participants": {
+      "count": 3,
+      "names": [
+        "Beneke, Brad",
+        "Olson, Don",
+        "Simmons, Peter"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Attack of 'Beaver 55'",
+        "publication": "MN 70's",
+        "url": "https://mn70s.tumblr.com/post/18432203220/attack-of-beaver-55",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Death Wins All Wars",
+        "author": "Holland, Daniel",
+        "url": "https://books.google.com/books?id=Vym-DwAAQBAJ&pg=PT213&lpg=PT213&dq=%22beaver+55%22+draft+board&source=bl&ots=vF_kurcavc&sig=ACfU3U0ELnCB6pfejNsQDA-WiHLxuORGYQ&hl=en&sa=X&ved=2ahUKEwiUwqrF7c30AhUvkIkEHfP9ArQQ6AF6BAgMEAM#v=onepage&q=%22beaver%2055%22%20draft%20board&f=false",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "date": "1970-07-10T04:00:00.000Z",
+    "title": "Minnesota 8",
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "Wabash",
+      "state": "Minnesota",
+    },
+    "results": ["Draft files destroyed"],
+    "participants": {
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "Minnesota Eight",
+        "author": "Nelson, Paul",
+        "publication": "MNopedia",
+        "url": "https://www.mnopedia.org/group/minnesota-eight",
+        "dateAccessed": "2021-12-13"
+      },
+      {
+        "title": "The Minnesota Eight’s attempts to destroy draft files during the Vietnam War were mostly unsuccessful",
+        "author": "Nelson, Paul",
+        "publication": "MinnPost",
+        "url": "The Minnesota Eight’s attempts to destroy draft files during the Vietnam War were mostly unsuccessful",
+        "dateAccessed": "2021-12-13"
+      },
+      {
+        "title": "Death Wins All Wars",
+        "author": "Holland, Daniel",
+        "url": "https://books.google.com/books?id=Vym-DwAAQBAJ&pg=PT213&lpg=PT213&dq=%22beaver+55%22+draft+board&source=bl&ots=vF_kurcavc&sig=ACfU3U0ELnCB6pfejNsQDA-WiHLxuORGYQ&hl=en&sa=X&ved=2ahUKEwiUwqrF7c30AhUvkIkEHfP9ArQQ6AF6BAgMEAM#v=onepage&q=%22beaver%2055%22%20draft%20board&f=false",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1970-09-06T04:00:00.000Z",
@@ -347,7 +819,7 @@
     },
     "results": ["draft records destroyed", "FBI records destroyed", "US Attorney's records destroyed"],
     "participants": {
-      "number": 8,
+      "count": 8,
       "names": [
         "Glick, Ted",
         "Gilchrist, Joe",
@@ -358,11 +830,27 @@
         "Meyerding, Jane",
         "Callahan, Frank"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "The Berrigan Affair: How It Evolved",
+        "author": "Kifner, John",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/21/archives/the-berrigan-affair-how-it-evolved-the-berrigan-affair-how-catholic.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "The Trial of the Flower City Conspiracy",
+        "author": "Wingard, Barry",
+        "publication": "The Harvard Crimson",
+        "url": "https://www.thecrimson.com/article/1970/12/2/the-trial-of-the-flower-city/",
+        "dateAccessed": "2021-12-13"
+      }
+    ]
   },
   {
     "date": "1971-08-21T04:00:00.000Z",
-    "title": "Buffalo 5",
+    "title": "The Buffalo",
     "location": {
       "name": "Selective Service Board",
       "address": "",
@@ -373,8 +861,25 @@
     },
     "results": ["draft records destroyed"],
     "participants": {
-      "number": 5,
-      "names": []}
+      "count": 5,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "Buffalo's Draft Raiders Explain Their Motivation",
+        "author": "Charlton, Linda",
+        "publication": "New York Times",
+        "url": "Buffalo's Draft Raiders Explain Their Motivation",
+        "dateAccessed": "2021-12-13"
+      },
+      {
+        "title": "The Buffalo-9: ... The Liberation and Creation of Documents (1971‑71)",
+        "author": "Powell, Elwin H.",
+        "publication": "Promoting the Decline of the Rising State: Documents of Resistance and Renewal from the Alternative Community: Buffalo, 1965-76",
+        "url": "https://theanarchistlibrary.org/library/elwin-h-powell-promoting-the-decline-of-the-rising-state#toc4",
+        "dateAccessed": "2021-12-13"
+      }
+    ]
   },
   {
     "date": "1971-08-22T04:00:00.000Z",
@@ -389,7 +894,7 @@
     },
     "results": ["unknown"],
     "participants": {
-      "number": 28,
+      "count": 28,
       "names": [
         "Abdoo, Jayma",
         "Anderson, William",
@@ -419,7 +924,26 @@
         "Tosi, Sarah",
         "Williamson, Robert"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "The Camden 28",
+        "author": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Camden_28",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "The Camden 28 (film)",
+        "url": "http://www.camden28.org/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Aug. 21, 1971: Anti-war Protesters Raid Draft Offices",
+        "author": "Zinn Education Project",
+        "url": "https://www.zinnedproject.org/news/tdih/anti-war-protesters-raid-offices/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1971-10-28T04:00:00.000Z",
@@ -434,24 +958,66 @@
     },
     "results": ["700 draft records destroyed"],
     "participants": {
-      "number": 11,
-      "names": []}
+      "count": 11,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "The Buffalo-9: ... The Liberation and Creation of Documents (1971‑71)",
+        "author": "Powell, Elwin H.",
+        "publication": "Promoting the Decline of the Rising State: Documents of Resistance and Renewal from the Alternative Community: Buffalo, 1965-76",
+        "url": "https://theanarchistlibrary.org/library/elwin-h-powell-promoting-the-decline-of-the-rising-state#toc4",
+        "dateAccessed": "2021-12-13"
+      }
+    ]
   },
   {
-    "date": "1969-01-21T05:00:00.000Z",
-    "title": "Silver Spring 3",
+    "date": "1971-10-28T04:00:00.000Z",
+    "title": "New and Improved East Coast Conspiracy to Save Lives",
     "location": {
       "name": "Selective Service Board",
       "address": "",
-      "city": "Silver Spring",
-      "state": "Maryland",
-      "latitude": 38.9907,
-      "longitude": -77.0261
+      "city": "Batavia",
+      "state": "New York",
     },
-    "results": ["draft records destroyed"],
+    "results": ["700 draft records destroyed"],
     "participants": {
-      "number": 3,
-      "names": []}
+      "count": 11,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "The Buffalo-9: ... The Liberation and Creation of Documents (1971‑71)",
+        "author": "Powell, Elwin H.",
+        "publication": "Promoting the Decline of the Rising State: Documents of Resistance and Renewal from the Alternative Community: Buffalo, 1965-76",
+        "url": "https://theanarchistlibrary.org/library/elwin-h-powell-promoting-the-decline-of-the-rising-state#toc4",
+        "dateAccessed": "2021-12-13"
+      }
+    ]
+  },
+  {
+    "date": "1971-10-28T04:00:00.000Z",
+    "title": "New and Improved East Coast Conspiracy to Save Lives",
+    "location": {
+      "name": "Selective Service Board",
+      "address": "",
+      "city": "Niagara Falls",
+      "state": "New York",
+    },
+    "results": ["700 draft records destroyed"],
+    "participants": {
+      "count": 11,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "The Buffalo-9: ... The Liberation and Creation of Documents (1971‑71)",
+        "author": "Powell, Elwin H.",
+        "publication": "Promoting the Decline of the Rising State: Documents of Resistance and Renewal from the Alternative Community: Buffalo, 1965-76",
+        "url": "https://theanarchistlibrary.org/library/elwin-h-powell-promoting-the-decline-of-the-rising-state#toc4",
+        "dateAccessed": "2021-12-13"
+      }
+    ]
   },
   {
     "date": "1969-10-01T04:00:00.000Z",
@@ -466,8 +1032,17 @@
     },
     "results": ["draft records destroyed"],
     "participants": {
-      "number": 2,
-      "names": []}
+      "count": 2,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1970-02-06T04:00:00.000Z",
@@ -482,7 +1057,7 @@
     },
     "results": ["draft records destroyed"],
     "participants": {
-      "number": 11,
+      "count": 11,
       "names": [
         "Wenderoth, Joe",
         "Panella, Mike",
@@ -496,7 +1071,22 @@
         "Bedwell, Richard",
         "Assero, Nancy"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "The Berrigan Affair: How It Evolved",
+        "author": "Kifner, John",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/21/archives/the-berrigan-affair-how-it-evolved-the-berrigan-affair-how-catholic.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "A Leaflet from The East Coast Conspiracy to Save Lives",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/a-leaflet-from-the-east-coast-conspiracy-to-save-lives/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1970-02-07T04:00:00.000Z",
@@ -511,7 +1101,7 @@
     },
     "results": ["General Electric records destroyed"],
     "participants": {
-      "number": 11,
+      "count": 11,
       "names": [
         "Wenderoth, Joe",
         "Panella, Mike",
@@ -525,27 +1115,51 @@
         "Bedwell, Richard",
         "Assero, Nancy"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "The Berrigan Affair: How It Evolved",
+        "author": "Kifner, John",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/21/archives/the-berrigan-affair-how-it-evolved-the-berrigan-affair-how-catholic.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "A Leaflet from The East Coast Conspiracy to Save Lives",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/a-leaflet-from-the-east-coast-conspiracy-to-save-lives/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   },
   {
     "date": "1968-06-04T04:00:00.000Z",
     "title": "Boston 2",
     "location": {
       "name": "Selective Service Board",
-      "address": "",
+      "address": "Custom House",
       "city": "Boston",
       "state": "Massachusetts",
       "latitude": 42.3601,
       "longitude": -71.0589
     },
-    "results": ["several hundred draft records destroyed"],
+    "results": ["several hundred draft records destroyed with black paint"],
     "participants": {
-      "number": 2,
+      "count": 2,
       "names": [
         "Williams, Suzi",
         "Femia, Frank"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "Letter from the Boston Two",
+        "author": "Femia, Frank",
+        "publication": "The New York Review",
+        "url": "https://www.nybooks.com/articles/1969/11/20/letter-from-the-boston-two/",
+        "dateAccessed": "2021-12-15"
+      }
+    ]
   },
   {
     "date": "1971-03-08T04:00:00.000Z",
@@ -560,7 +1174,7 @@
     },
     "results": ["1,000 classified documents stolen and published"],
     "participants": {
-      "number": 8,
+      "count": 8,
       "names": [
         "Forsyth, Keith",
         "Raines, Bonnie",
@@ -571,6 +1185,174 @@
         "Smith, Susan",
         "Durst, Ron"
       ]
-    }
+    },
+    "sources": [
+      {
+        "title": "I Broke Into an FBI Office and Took Every Document. Here’s Why.",
+        "author": "Raines, Bonnie",
+        "publication": "ACLU Blog",
+        "url": "https://www.aclu.org/blog/national-security/secrecy/i-broke-fbi-office-and-took-every-document-heres-why",
+        "dateAccessed": "2021-12-06"
+      },
+      {
+        "title": "Citizens' Group Releases New Packet of FBI Files",
+        "author": "Epps, Garrett",
+        "publication": "The Harvard Crimson",
+        "url": "https://www.thecrimson.com/article/1971/4/23/citizens-group-releases-new-packet-of/",
+        "dateAccessed": "2021-12-15"
+      }
+    ]
+  },
+  {
+    "date": "1971-04-29T12:00:00:000Z",
+    "title": "Four of Us",
+    "location": {
+      "name": "Selective Service office",
+      "address": "",
+      "city": "Evanston",
+      "state": "Illinois"
+    },
+    "results": ["500 draft records destroyed"],
+    "participants": {
+      "count": 4,
+      "names": [
+         "Baranski, John",
+         "Kreutz, Eileen",
+         "Lubbers, Mary Beth",
+         "Clark, Thom"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Fighting the draft: Loyola alumni protested Vietnam War with draft board raids",
+        "author": "Runkel, Grace",
+        "url": "http://loyolaphoenix.com/2014/11/fighting-the-draft-loyola-alums-protested-vietnam-war-with-draft-card-raids/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "date": "1969-11-07",
+    "title": "Boston 8",
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "Boston",
+      "State": "Massachusetts"
+    },
+    "results": ["Destruction of draft files at four Selective Service Offices"],
+    "participants": {
+      "count": 8,
+      "names": [
+        "Galvani, John"
+      ]
+    },
+    "sources": [
+      {
+        "title": "The Berrigan Affair: How It Evolved",
+        "author": "Kifner, John",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/21/archives/the-berrigan-affair-how-it-evolved-the-berrigan-affair-how-catholic.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "'Boston Eight' Surrender in D. C. But FBI Refuses to Arrest Them",
+        "author": "The Harvard Crimson",
+        "url": "https://www.thecrimson.com/article/1969/11/17/boston-eight-surrender-in-d-c/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "date": "1970-06-13",
+    "title": "Rhode Island Political Offensive For Freedom",
+    "location": {
+      "name": "Providence draft board complex",
+      "address": "1 Washington Avenue",
+      "city": "Providence",
+      "state": "Rhode Island",
+      "latitude": 41.789077,
+      "longitude": -71.3934517
+    },
+    "results": [],
+    "participants": {
+      "count": 2,
+      "names": [
+        "Elmer, Jerry H.",
+        "Rosen, David"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Today is the 50th anniversary of the Providence Draft Board Raid",
+        "author": "Elmer, Jerry H.",
+        "url": "https://upriseri.com/2020-06-13-jerry-elmer/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "date": "1970-12-18",
+    "title": "The Hoover Vacuum Conspiracy",
+    "location": {
+      "name": "Draft office",
+      "address": "",
+      "city": "Elizabeth",
+      "state": "New Jersey",
+    },
+    "results": ["Thousands of office files destroyed"],
+    "participants": {
+      "count": 3,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "Catholics Are Shaken by the Berrigan Case",
+        "author": "Robinson, Douglas",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/06/archives/catholics-are-shaken-by-the-berrigan-case.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "The Hoover Vacuum Conspiracy",
+        "url": "http://www.ep.tc/realist/89/13.html",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "date": "1970-12-18",
+    "title": "The Hoover Vacuum Conspiracy",
+    "location": {
+      "name": "Draft office",
+      "address": "",
+      "city": "Union City",
+      "state": "New Jersey",
+    },
+    "results": ["Thousands of office files removed"],
+    "participants": {
+      "count": 3,
+      "names": []
+    },
+    "sources": [
+      {
+        "title": "Catholics Are Shaken by the Berrigan Case",
+        "author": "Robinson, Douglas",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/06/archives/catholics-are-shaken-by-the-berrigan-case.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "The Hoover Vacuum Conspiracy",
+        "url": "http://www.ep.tc/realist/89/13.html",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
   }
 ]
