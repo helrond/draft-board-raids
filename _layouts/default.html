@@ -19,6 +19,9 @@
         <div class="col-10 offset-1 text-center">
           <h1 class="display-1">🔥🔥 Draft Board Raids 🔥🔥</h1>
           <p class="lead">Data and visualizations from draft board raids compiled from a variety of sources.</p>
+          <div class="text-left card p-3 mb-4">
+            {{content}}
+          </div>
         </div>
       </div>
 
@@ -60,6 +63,7 @@
                 <th>Date</th>
                 <th>Location</th>
                 <th>Result</th>
+                <th>Sources</th>
               </tr>
             </thead>
             <tbody>
@@ -69,6 +73,13 @@
               <td>{{ action.date | date: "%B %-d, %Y" }}</td>
               <td>{% if action.location.city != "" %}{{ action.location.city }}, {{ action.location.state }}{% endif %}</td>
               <td>{% for result in action.results %}{{result}}{% unless forloop.last %}<br/>{% endunless %}{% endfor %}</td>
+              <td>
+                {%- for source in action.sources -%}
+                  {% if source.author %}{{source.author}}. {% endif %}
+                  <em>{%- if source.url -%}<a href='{{source.url}}'>{%- endif -%}{{source.title}}{%- if source.url -%}</a>{%- endif -%}</em>
+                  {% if source.dateAccessed %} (accessed {{source.dateAccessed | date: "%B %-d, %Y" }}){% endif %}
+                  {%- unless forloop.last -%}<br/>{%- endunless -%}
+                {%- endfor -%}</td>
             </tr>
             {% endfor %}
             </tbody>
@@ -124,7 +135,7 @@
           "data":{
             "labels": [{% for action in sorted %}"{{action.title}}"{% unless forloop.last %},{% endunless %}{% endfor %}],
             "datasets":[{
-              "data": [{% for action in sorted %}{{action.participants.number}}{% unless forloop.last %},{% endunless %}{% endfor %}],
+              "data": [{% for action in sorted %}{{action.participants.count}}{% unless forloop.last %},{% endunless %}{% endfor %}],
               "fill":true,
               "legend":false,
               "backgroundColor": "rgba(47, 140, 199, 0.2)",
