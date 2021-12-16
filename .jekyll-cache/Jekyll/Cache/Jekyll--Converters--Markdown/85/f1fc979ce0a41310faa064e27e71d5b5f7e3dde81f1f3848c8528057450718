@@ -1,0 +1,30 @@
+I"m<p><strong>This site began as an attempt to answer a simple question: How many draft board
+raids were there?</strong></p>
+
+<p>I quickly realized that, although a great deal of information about
+draft board raids - which took place across the United States between 1968 and
+1971 - has been published in a variety of sources (many of which are available on the
+internet), understanding the full scope of these raids - or even answering basic
+questions - is difficult because there is no source of structured data about
+these actions.</p>
+
+<p>This site attempts to fill that gap.</p>
+
+<h2 id="caveats">Caveats</h2>
+<p>As with any dataset, choices were made which impact the final product:</p>
+<ul>
+  <li>Each location has been recorded as a separate action, including raids which
+happened on the same date and were claimed by the same group.</li>
+  <li>Not all fields are available for all actions. Generally speaking, the title,
+date and general location (city and state) are available for each action,
+but participant names and other data may not be.</li>
+  <li>The sources cited are not intended to be comprehensive, but instead aim to
+provide some evidentiary basis for claiming that a raid did, in fact, take place.</li>
+</ul>
+
+<h2 id="additions-and-corrections">Additions and Corrections</h2>
+<p>Corrections or additions to this website are welcome! The best way to suggest a
+change is to file an issue on this site’s <a href="https://github.com/helrond/draft-board-raids">Github repository</a>.
+However, if you don’t have a Github account and don’t want to sign up, you can
+always send me an email at hillel [at] hillelarnold.com.</p>
+:ET
