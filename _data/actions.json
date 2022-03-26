@@ -41,6 +41,12 @@
         "publication": "Hippyland",
         "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
         "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Barry Bondhus Case",
+        "publication": "The Fight Against Selective Service",
+        "url": "https://selective-service.org/barry-bondhus-case.htm",
+        "dateAccessed": "2022-03-26"
       }
     ]
   },
@@ -110,7 +116,7 @@
         "Moylan, Mary",
         "Mische, George",
         "Darst, David",
-        "Hogan, Tom"
+        "Hogan, John"
       ]
     },
     "sources": [
@@ -157,18 +163,18 @@
     "participants": {
       "count": 14,
       "names": [
-        "Gardner, Jerry",
+        "Gardner, Gerald T.",
         "Graf, Bob",
         "Forest, Jim",
-        "Rosebaugh, Larry",
+        "Rosenbaugh, Larry",
         "O'Leary, Basil",
-        "Higgenbotham, John",
+        "Higgenbotham, Jon",
         "Cotton, Donald",
         "Harney, James",
         "Janicke, Alfred",
-        "Ogile, Fred",
+        "Ojile, Fred",
         "Cullen, Michael",
-        "Mullaney, Tony",
+        "Mullaney, Anthony",
         "Cunnane, Robert",
         "Marvy, Doug"
       ]
@@ -190,7 +196,7 @@
   },
   {
     "date": "1969-03-22T05:00:00.000Z",
-    "title": "D.C. 9",
+    "title": "DC Nine",
     "location": {
       "name": "Dow Chemical offices",
       "address": "1030 15th Street, N.W.",
@@ -204,14 +210,14 @@
       "count": 9,
       "names": [
         "Begin, Robert",
-        "Malone, JoAnn",
+        "Malone, Joann",
         "Melville, Arthur",
         "O'Rourke, Joseph",
         "Moloney, Dennis",
         "Slaski, Michael",
         "Dougherty, Michael",
         "Melville, Catherine",
-        "Meyer, Bernie"
+        "Meyer, Bernard"
       ]
     },
     "sources": [
@@ -256,7 +262,7 @@
   },
   {
     "date": "1969-05-20T04:00:00.000Z",
-    "title": "Pasadena 3",
+    "title": "Pasadena Three",
     "location": {
       "name": "Selective Service Board",
       "address": "",
@@ -268,7 +274,11 @@
     "results": ["600 draft records destroyed"],
     "participants": {
       "count": 3,
-      "names": []
+      "names": [
+        "Friend, Jr., Todd",
+        "Seigel, Todd",
+        "Skinner, Walter"
+      ]
     },
     "sources": [
       {
@@ -283,12 +293,12 @@
         "publication": "Hippyland",
         "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
         "dateAccessed": "2021-12-05"
-      }
+      },
     ]
   },
   {
     "date": "1969-05-21T04:00:00.000Z",
-    "title": "Silver Spring 3",
+    "title": "Silver Spring Three",
     "location": {
       "name": "Selective Service Board",
       "address": "",
@@ -329,8 +339,30 @@
     ]
   },
   {
+    "date": "1969-11-11T04:00:00.000Z",
+    "title": "Silver Spring Revisited",
+    "location": {
+      "name": "Selective Service Board 53",
+      "address": "",
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "latitude": 38.9907,
+      "longitude": -77.0261
+    },
+    "results": ["200,000 draft records destroyed", "equipment destroyed"],
+    "participants": {
+      "count": 3,
+      "names": [
+        "Bayless, John",
+        "Brake, Robert",
+        "Malecki, Bob"
+      ]
+    },
+    "sources": []
+  },
+  {
     "date": "1969-05-25T04:00:00.000Z",
-    "title": "Chicago 15",
+    "title": "Chicago Fifteen",
     "location": {
       "name": "Selective Service Board",
       "address": "",
@@ -345,19 +377,19 @@
       "names": [
         "Quint, Linda",
         "Phillips, John",
-        "Mulligan, Joe",
+        "Mulligan, Joseph",
         "Chase, Fred",
-        "Durkin, Bill",
-        "Gargan, Ed",
+        "Durkin, William",
+        "Garagan, Ed",
         "Katroscik, Margaret",
         "Loll, John",
-        "Muse, Charlie",
-        "Hoffmans, Ed",
-        "Fullenkamp, Chuck",
+        "Muse, Charles",
+        "Hoffmans, Edward",
+        "Fullenkamp, Charles",
         "Pietra, John",
-        "Riddell, Nick",
-        "Smit, Tom",
-        "Sweeney, Bill"
+        "Riddell, Nicholas",
+        "Smit, Thomas",
+        "Sweeney, William"
       ]
     },
     "sources": [
@@ -379,6 +411,11 @@
         "publication": "Hippyland",
         "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
         "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Invade draft office here",
+        "publication": "Chicago Sun Times",
+        "date": "May 26, 1969"
       }
     ]
   },
@@ -387,11 +424,11 @@
     "title": "Women Against Daddy Warbucks",
     "location": {
       "name": "Selective Service Board",
-      "address": "",
+      "address": "321 W 44th Street",
       "city": "New York",
       "state": "New York",
-      "latitude": 40.7128,
-      "longitude": -74.0060
+      "latitude": 40.7591815,
+      "longitude": -73.9919408
     },
     "results": [
       "6,500 draft records destroyed",
@@ -404,7 +441,7 @@
         "Czarnik, Kathy",
         "Boskey, Jill",
         "Green, Valentine",
-        "Kennedy, Pat",
+        "Kennedy, Patricia",
         "Forest Orell, Linda",
         "Webster, Barbara"
       ]
@@ -426,19 +463,28 @@
   },
   {
     "date": "1969-08-02T04:00:00.000Z",
-    "title": "New York 8",
+    "title": "New York Eight",
     "location": {
       "name": "Selective Service Board",
-      "address": "",
+      "address": "881 Gerard Avenue",
       "city": "Bronx",
       "state": "New York",
-      "latitude": 40.8448,
-      "longitude": -73.8648
+      "latitude": 40.8282047,
+      "longitude": -73.9270621
     },
     "results": ["75,000 draft records destroyed"],
     "participants": {
       "count": 8,
-      "names": []
+      "names": [
+        "Donato, Joan",
+        "Hayden, John 'Jack'",
+        "McGowan, Edward",
+        "McLaughlin, Neil",
+        "Murphy, Edward",
+        "Nicholson, Joan H.",
+        "Walsh, Anne",
+        "Walsh Beary, Genevieve"
+      ]
     },
     "sources": [
       {
@@ -458,19 +504,28 @@
   },
   {
     "date": "1969-08-15T04:00:00.000Z",
-    "title": "New York 8",
+    "title": "New York Eight",
     "location": {
       "name": "Selective Service Board",
-      "address": "",
+      "address": "165-08 Jamaica Avenue",
       "city": "Jamaica",
       "state": "New York",
-      "latitude": 40.699783,
-      "longitude": -73.786026
+      "latitude": 40.7085955,
+      "longitude": -73.7984745
     },
     "results": ["5,000 draft records destroyed"],
     "participants": {
       "count": 8,
-      "names": []
+      "names": [
+        "Donato, Joan",
+        "Hayden, John 'Jack'",
+        "McGowan, Edward",
+        "McLaughlin, Neil",
+        "Murphy, Edward",
+        "Nicholson, Joan H.",
+        "Walsh, Anne",
+        "Walsh Beary, Genevieve"
+      ]
     },
     "sources": [
       {
@@ -504,13 +559,14 @@
       "count": 8,
       "names": [
         "Mack, Paul",
-        "Trost, Tom",
-        "Donner, John",
+        "Trost, Thomas",
+        "Donner, Michael",
         "McNamara, Robert",
-        "McNamara, Connie",
-        "Williams, James",
+        "Grubbs McNamara, Connie",
+        "McNamara, Marty",
+        "Williams, David",
         "Kennedy, Jane",
-        "Mulert, Jo Ann"
+        "Mulert, Jo Ann",
       ]
     },
     "sources": [
@@ -525,12 +581,19 @@
         "publication": "Resist",
         "url": "https://content.wisconsinhistory.org/digital/collection/p15932coll8/id/92625/",
         "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "'Beaver 55' Terms Self A 'Revolutionary'",
+        "author": "Doherty, Paul M.",
+        "publication": "The Indianapolis Star",
+        "url": "https://www.newspapers.com/clip/26359627/beaver-55-paul-mack-page-one/",
+        "dateAccessed": "2021-12-05"
       }
     ]
   },
   {
-    "date": "1969-11-02T05:00:00.000Z",
-    "title": "D.C. 541/2",
+    "date": "1969-11-07T05:00:00.000Z",
+    "title": "Washington 54 1/2",
     "location": {
       "name": "Dow Chemical offices",
       "address": "1030 15th Street, N.W.",
@@ -542,7 +605,9 @@
     "results": ["files of corporation destroyed"],
     "participants": {
       "count": 1,
-      "names": []
+      "names": [
+        "Malecki, Bob"
+      ]
     },
     "sources": [
       {
@@ -550,6 +615,12 @@
         "publication": "Hippyland",
         "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
         "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Dow Chemical offices destroyed",
+        "publication": "Quicksilver Times",
+        "url": "http://hdl.handle.net/1961/dcplislandora:10140",
+        "dateAccessed": "2022-01-29"
       }
     ]
   },
@@ -568,12 +639,15 @@
     "participants": {
       "count": 8,
       "names": [
-        "Donner, John",
-        "Trost, Tom",
+        "Mack, Paul",
+        "Trost, Thomas",
+        "Donner, Michael",
         "McNamara, Robert",
-        "Williams, James",
+        "Grubbs McNamara, Connie",
+        "McNamara, Marty",
+        "Williams, David",
         "Kennedy, Jane",
-        "Mack, Paul"
+        "Mulert, Jo Ann",
       ]
     },
     "sources": [
@@ -609,12 +683,11 @@
       "latitude": 43.6156,
       "longitude": -84.2472
     },
-    "results": ["10,000 draft records destroyed", "equipment destroyed"],
+    "results": ["10,000 draft records destroyed", "equipment destroyed", "All 1-A files on appeal destroyed"],
     "participants": {
-      "count": 15,
+      "count": 22,
       "names": [
         "Turchick, Chuck",
-        "Mack, Paul"
       ]
     },
     "sources": [
@@ -629,13 +702,6 @@
         "title": "Attack of 'Beaver 55'",
         "publication": "MN 70's",
         "url": "https://mn70s.tumblr.com/post/18432203220/attack-of-beaver-55",
-        "dateAccessed": "2021-12-05"
-      },
-      {
-        "title": "'Beaver 55' Terms Self A 'Revolutionary'",
-        "author": "Doherty, Paul M.",
-        "publication": "The Indianapolis Star",
-        "url": "https://www.newspapers.com/clip/26359627/beaver-55-paul-mack-page-one/",
         "dateAccessed": "2021-12-05"
       }
     ]
@@ -672,7 +738,7 @@
   },
   {
     "date": "1970-07-10T04:00:00.000Z",
-    "title": "Minnesota 8",
+    "title": "Minnesota Eight",
     "location": {
       "name": "Draft board office",
       "address": "",
@@ -699,12 +765,17 @@
         "author": "Holland, Daniel",
         "url": "https://books.google.com/books?id=Vym-DwAAQBAJ&pg=PT213&lpg=PT213&dq=%22beaver+55%22+draft+board&source=bl&ots=vF_kurcavc&sig=ACfU3U0ELnCB6pfejNsQDA-WiHLxuORGYQ&hl=en&sa=X&ved=2ahUKEwiUwqrF7c30AhUvkIkEHfP9ArQQ6AF6BAgMEAM#v=onepage&q=%22beaver%2055%22%20draft%20board&f=false",
         "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "The Minnesota 8",
+        "url": "http://minnesota8.net",
+        "dateAccessed": "2022-03-26"
       }
     ]
   },
   {
     "date": "1970-07-10T04:00:00.000Z",
-    "title": "Minnesota 8",
+    "title": "Minnesota Eight",
     "location": {
       "name": "Draft board office",
       "address": "",
@@ -717,9 +788,9 @@
     "participants": {
       "count": 3,
       "names": [
-        "Tilton, Bill",
-        "Turchick, Chuck",
-        "Ulen, Cliff"
+        "Tilton, William",
+        "Turchick, Charles",
+        "Ulen, Clifton"
       ]
     },
     "sources": [
@@ -734,12 +805,24 @@
         "author": "Holland, Daniel",
         "url": "https://books.google.com/books?id=Vym-DwAAQBAJ&pg=PT213&lpg=PT213&dq=%22beaver+55%22+draft+board&source=bl&ots=vF_kurcavc&sig=ACfU3U0ELnCB6pfejNsQDA-WiHLxuORGYQ&hl=en&sa=X&ved=2ahUKEwiUwqrF7c30AhUvkIkEHfP9ArQQ6AF6BAgMEAM#v=onepage&q=%22beaver%2055%22%20draft%20board&f=false",
         "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "The Minnesota 8",
+        "url": "http://minnesota8.net",
+        "dateAccessed": "2022-03-26"
+      },
+      {
+        "title": "A 50-year anniversary",
+        "author": "Turchick, Chuck",
+        "publication": "e-democracy.org",
+        "url": "http://forums.e-democracy.org/groups/mn-politics/messages/topic/SaTBmdG5y2OCaadjE3hBh"
+        "dateAccessed": "2022-03-26"
       }
     ]
   },
   {
     "date": "1970-07-10T04:00:00.000Z",
-    "title": "Minnesota 8",
+    "title": "Minnesota Eight",
     "location": {
       "name": "Draft board office",
       "address": "",
@@ -767,12 +850,17 @@
         "author": "Holland, Daniel",
         "url": "https://books.google.com/books?id=Vym-DwAAQBAJ&pg=PT213&lpg=PT213&dq=%22beaver+55%22+draft+board&source=bl&ots=vF_kurcavc&sig=ACfU3U0ELnCB6pfejNsQDA-WiHLxuORGYQ&hl=en&sa=X&ved=2ahUKEwiUwqrF7c30AhUvkIkEHfP9ArQQ6AF6BAgMEAM#v=onepage&q=%22beaver%2055%22%20draft%20board&f=false",
         "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "The Minnesota 8",
+        "url": "http://minnesota8.net",
+        "dateAccessed": "2022-03-26"
       }
     ]
   },
   {
     "date": "1970-07-10T04:00:00.000Z",
-    "title": "Minnesota 8",
+    "title": "Minnesota Eight",
     "location": {
       "name": "",
       "address": "",
@@ -803,6 +891,11 @@
         "author": "Holland, Daniel",
         "url": "https://books.google.com/books?id=Vym-DwAAQBAJ&pg=PT213&lpg=PT213&dq=%22beaver+55%22+draft+board&source=bl&ots=vF_kurcavc&sig=ACfU3U0ELnCB6pfejNsQDA-WiHLxuORGYQ&hl=en&sa=X&ved=2ahUKEwiUwqrF7c30AhUvkIkEHfP9ArQQ6AF6BAgMEAM#v=onepage&q=%22beaver%2055%22%20draft%20board&f=false",
         "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "The Minnesota 8",
+        "url": "http://minnesota8.net",
+        "dateAccessed": "2022-03-26"
       }
     ]
   },
@@ -1021,7 +1114,7 @@
   },
   {
     "date": "1969-10-01T04:00:00.000Z",
-    "title": "Cleveland 2",
+    "title": "Cleveland Two",
     "location": {
       "name": "Selective Service Board",
       "address": "",
@@ -1049,26 +1142,114 @@
     "title": "East Coast Conspiracy to Save Lives",
     "location": {
       "name": "Selective Service Board",
-      "address": "",
+      "address": "3201 Kensington Avenue",
       "city": "Philadelphia",
       "state": "PA",
-      "latitude": 39.9526,
-      "longitude": -75.1652
+      "latitude": 39.9964907,
+      "longitude": -75.115245
     },
     "results": ["draft records destroyed"],
     "participants": {
       "count": 11,
       "names": [
         "Wenderoth, Joe",
-        "Panella, Mike",
-        "Linden, Phillip",
-        "Lacey, Charlotte",
+        "Panella, Michael",
+        "Linden, Phillip J.",
+        "Lacy, Charlotte",
         "Glick, Ted",
         "Fordi, Peter",
         "Finnegan, John",
         "Davis, Susan",
         "Cordes, Susan",
-        "Bedwell, Richard",
+        "Bidwell, Richard",
+        "Assero, Nancy"
+      ]
+    },
+    "sources": [
+      {
+        "title": "The Berrigan Affair: How It Evolved",
+        "author": "Kifner, John",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/21/archives/the-berrigan-affair-how-it-evolved-the-berrigan-affair-how-catholic.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "A Leaflet from The East Coast Conspiracy to Save Lives",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/a-leaflet-from-the-east-coast-conspiracy-to-save-lives/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "date": "1970-02-06T04:00:00.000Z",
+    "title": "East Coast Conspiracy to Save Lives",
+    "location": {
+      "name": "Selective Service Board",
+      "address": "Market Street",
+      "city": "Philadelphia",
+      "state": "PA",
+      "latitude": 39.9570309,
+      "longitude": -75.2096169
+    },
+    "results": ["draft records destroyed"],
+    "participants": {
+      "count": 11,
+      "names": [
+        "Wenderoth, Joe",
+        "Panella, Michael",
+        "Linden, Phillip J.",
+        "Lacy, Charlotte",
+        "Glick, Ted",
+        "Fordi, Peter",
+        "Finnegan, John",
+        "Davis, Susan",
+        "Cordes, Susan",
+        "Bidwell, Richard",
+        "Assero, Nancy"
+      ]
+    },
+    "sources": [
+      {
+        "title": "The Berrigan Affair: How It Evolved",
+        "author": "Kifner, John",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/21/archives/the-berrigan-affair-how-it-evolved-the-berrigan-affair-how-catholic.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "A Leaflet from The East Coast Conspiracy to Save Lives",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/a-leaflet-from-the-east-coast-conspiracy-to-save-lives/",
+        "dateAccessed": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "date": "1970-02-06T04:00:00.000Z",
+    "title": "East Coast Conspiracy to Save Lives",
+    "location": {
+      "name": "Selective Service Board",
+      "address": "North Philadelphia",
+      "city": "Philadelphia",
+      "state": "PA",
+      "latitude": 40.0221801,
+      "longitude": -75.1946712
+    },
+    "results": ["draft records destroyed"],
+    "participants": {
+      "count": 11,
+      "names": [
+        "Wenderoth, Joe",
+        "Panella, Michael",
+        "Linden, Phillip J.",
+        "Lacy, Charlotte",
+        "Glick, Ted",
+        "Fordi, Peter",
+        "Finnegan, John",
+        "Davis, Susan",
+        "Cordes, Susan",
+        "Bidwell, Richard",
         "Assero, Nancy"
       ]
     },
@@ -1136,7 +1317,7 @@
     "date": "1968-06-04T04:00:00.000Z",
     "title": "Boston 2",
     "location": {
-      "name": "Selective Service Board",
+      "name": "Selective Service Board F 30",
       "address": "Custom House",
       "city": "Boston",
       "state": "Massachusetts",
@@ -1158,6 +1339,11 @@
         "publication": "The New York Review",
         "url": "https://www.nybooks.com/articles/1969/11/20/letter-from-the-boston-two/",
         "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "Couple Invades Draft Board, Pours Black Paint into Files",
+        "publication": "Boston Evening Globe",
+        "date": "June 4, 1968"
       }
     ]
   },
@@ -1233,9 +1419,9 @@
   },
   {
     "date": "1969-11-07",
-    "title": "Boston 8",
+    "title": "Boston Eight",
     "location": {
-      "name": "",
+      "name": "Jamaica Plain Selective Service office",
       "address": "",
       "city": "Boston",
       "State": "Massachusetts"
@@ -1244,7 +1430,14 @@
     "participants": {
       "count": 8,
       "names": [
-        "Galvani, John"
+        "Galvani, John",
+        "Au, Bill",
+        "Cain, Mary",
+        "Couming, Paul",
+        "Dewease, Darrell",
+        "Piper, Claudette",
+        "Scoblick, Anthony",
+        "Shapiro, Barbara"
       ]
     },
     "sources": [
@@ -1266,6 +1459,181 @@
         "publication": "Hippyland",
         "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
         "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Raiders Ruin Draft Files at 6 Hub Boards",
+        "publication": "Boston Sunday Globe",
+        "date": "November 9, 1969s"
+      },
+      {
+        "title": "Six Draft Boards Raided; Paint Thrown on Records",
+        "publication": "The Harvard Crimson",
+        "date": "November 10, 1969"
+      }
+    ]
+  },
+  {
+    "date": "1969-11-07",
+    "title": "Boston Eight",
+    "location": {
+      "name": "Copley Square Selective Service office",
+      "address": "",
+      "city": "Boston",
+      "State": "Massachusetts"
+    },
+    "results": ["Destruction of draft files at four Selective Service Offices"],
+    "participants": {
+      "count": 8,
+      "names": [
+        "Galvani, John",
+        "Au, Bill",
+        "Cain, Mary",
+        "Couming, Paul",
+        "Dewease, Darrell",
+        "Piper, Claudette",
+        "Scoblick, Anthony",
+        "Shapiro, Barbara"
+      ]
+    },
+    "sources": [
+      {
+        "title": "The Berrigan Affair: How It Evolved",
+        "author": "Kifner, John",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/21/archives/the-berrigan-affair-how-it-evolved-the-berrigan-affair-how-catholic.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "'Boston Eight' Surrender in D. C. But FBI Refuses to Arrest Them",
+        "author": "The Harvard Crimson",
+        "url": "https://www.thecrimson.com/article/1969/11/17/boston-eight-surrender-in-d-c/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Raiders Ruin Draft Files at 6 Hub Boards",
+        "publication": "Boston Sunday Globe",
+        "date": "November 9, 1969s"
+      },
+      {
+        "title": "Six Draft Boards Raided; Paint Thrown on Records",
+        "publication": "The Harvard Crimson",
+        "date": "November 10, 1969"
+      }
+    ]
+  },
+  {
+    "date": "1969-11-07",
+    "title": "Boston Eight",
+    "location": {
+      "name": "Dudley Square/Roxbury Selective Service office",
+      "address": "",
+      "city": "Boston",
+      "State": "Massachusetts"
+    },
+    "results": ["Destruction of draft files at four Selective Service Offices"],
+    "participants": {
+      "count": 8,
+      "names": [
+        "Galvani, John",
+        "Au, Bill",
+        "Cain, Mary",
+        "Couming, Paul",
+        "Dewease, Darrell",
+        "Piper, Claudette",
+        "Scoblick, Anthony",
+        "Shapiro, Barbara"
+      ]
+    },
+    "sources": [
+      {
+        "title": "The Berrigan Affair: How It Evolved",
+        "author": "Kifner, John",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/21/archives/the-berrigan-affair-how-it-evolved-the-berrigan-affair-how-catholic.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "'Boston Eight' Surrender in D. C. But FBI Refuses to Arrest Them",
+        "author": "The Harvard Crimson",
+        "url": "https://www.thecrimson.com/article/1969/11/17/boston-eight-surrender-in-d-c/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Raiders Ruin Draft Files at 6 Hub Boards",
+        "publication": "Boston Sunday Globe",
+        "date": "November 9, 1969s"
+      },
+      {
+        "title": "Six Draft Boards Raided; Paint Thrown on Records",
+        "publication": "The Harvard Crimson",
+        "date": "November 10, 1969"
+      }
+    ]
+  },
+  {
+    "date": "1969-11-07",
+    "title": "Boston Eight",
+    "location": {
+      "name": "Uphams Corner Selective Service office",
+      "address": "",
+      "city": "Boston",
+      "State": "Massachusetts"
+    },
+    "results": ["Destruction of draft files at four Selective Service Offices"],
+    "participants": {
+      "count": 8,
+      "names": [
+        "Galvani, John",
+        "Au, Bill",
+        "Cain, Mary",
+        "Couming, Paul",
+        "Dewease, Darrell",
+        "Piper, Claudette",
+        "Scoblick, Anthony",
+        "Shapiro, Barbara"
+      ]
+    },
+    "sources": [
+      {
+        "title": "The Berrigan Affair: How It Evolved",
+        "author": "Kifner, John",
+        "publication": "The New York Times",
+        "url": "https://www.nytimes.com/1971/02/21/archives/the-berrigan-affair-how-it-evolved-the-berrigan-affair-how-catholic.html",
+        "dateAccessed": "2021-12-15"
+      },
+      {
+        "title": "'Boston Eight' Surrender in D. C. But FBI Refuses to Arrest Them",
+        "author": "The Harvard Crimson",
+        "url": "https://www.thecrimson.com/article/1969/11/17/boston-eight-surrender-in-d-c/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Draft Board and Dow Chemical Raids",
+        "publication": "Hippyland",
+        "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
+        "dateAccessed": "2021-12-05"
+      },
+      {
+        "title": "Raiders Ruin Draft Files at 6 Hub Boards",
+        "publication": "Boston Sunday Globe",
+        "date": "November 9, 1969s"
+      },
+      {
+        "title": "Six Draft Boards Raided; Paint Thrown on Records",
+        "publication": "The Harvard Crimson",
+        "date": "November 10, 1969"
       }
     ]
   },
@@ -1285,6 +1653,8 @@
       "count": 2,
       "names": [
         "Elmer, Jerry H.",
+        "Bragg, Carol",
+        "Squire, DeCourcy",
         "Rosen, David"
       ]
     },
@@ -1354,5 +1724,266 @@
         "dateAccessed": "2021-12-05"
       }
     ]
+  },
+  {
+    "date": "1969-11",
+    "title": "Akron Two",
+    "location": {
+      "name": "",
+      "address": "",
+      "city": "Akron",
+      "state": "Ohio",
+    },
+    "results": ["100,000 draft files destroyed"],
+    "participants": {
+      "count": 2,
+      "names": [
+        "Brake, Robert",
+        "Malecki, Bob"
+      ]
+    },
+    "sources": []
+  },
+  {
+    "date": "1970-05-19",
+    "title": "We the People",
+    "location": {
+      "name": "Draft Board",
+      "address": "3701 N. Broad Street",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+    },
+    "results": ["800 A-1 files, leger books, meeting minutes, and 60,000 cross reference cards from six local boards destroyed"],
+    "participants": {
+      "count": 14,
+      "names": [
+        "Mueller Barrie, Chris",
+        "Barrie, William",
+        "Buckalew, Terry",
+        "Chamberlain, Pauline",
+        "Daniel, Ralph",
+        "Davis, Susan",
+        "McKenna Finnegan, Andi",
+        "Forth, Sarah",
+        "Glick, Ted",
+        "Landon, Deborah",
+        "Messer, Collin",
+        "Stanuikynas, Richard",
+        "Tudor, Linda",
+        "Williamson, Robert"
+      ]
+    },
+    "sources": []
+  },
+  {
+    "date": "1970-05-19",
+    "title": "We the People",
+    "location": {
+      "name": "Draft Board 58",
+      "address": "104 Baltimore Pike",
+      "city": "Landsdowne",
+      "state": "Pennsylvania",
+    },
+    "results": ["A-1 files, 30,000 cross reference materials and ledger books destroyed"],
+    "participants": {
+      "count": 14,
+      "names": [
+        "Mueller Barrie, Chris",
+        "Barrie, William",
+        "Buckalew, Terry",
+        "Chamberlain, Pauline",
+        "Daniel, Ralph",
+        "Davis, Susan",
+        "McKenna Finnegan, Andi",
+        "Forth, Sarah",
+        "Glick, Ted",
+        "Landon, Deborah",
+        "Messer, Collin",
+        "Stanuikynas, Richard",
+        "Tudor, Linda",
+        "Williamson, Robert"
+      ]
+    },
+    "sources": []
+  },
+  {
+    "date": "1970-06-18",
+    "title": "The Delaware Actions",
+    "location": {
+      "name": "Draft Board",
+      "address": "38 South Street",
+      "city": "Dover",
+      "state": "Delaware",
+    },
+    "results": ["89,000 files destroyed"],
+    "participants": {
+      "count": 17,
+      "names": [
+        "Cain, Mary",
+        "Davidon, William",
+        "Davidson, Thomas",
+        "Donato, Joan",
+        "Donovan, Shawn",
+        "Gilchrist, Joe",
+        "Glick, Ted",
+        "Grady, John",
+        "LoPresti, Frank",
+        "McAlister, Elizabeth",
+        "Mentz, Ann",
+        "Peluso, Judith",
+        "Rosa, John",
+        "Scoblick, Anthony",
+        "Swinglish, John",
+        "Walsh, Anne",
+        "Wingard, Barry"
+      ]
+    },
+    "sources": []
+  },
+  {
+    "date": "1970-06-18",
+    "title": "The Delaware Actions",
+    "location": {
+      "name": "Draft Board",
+      "address": "",
+      "city": "Georgetown",
+      "state": "Delaware",
+    },
+    "results": ["89,000 files destroyed"],
+    "participants": {
+      "count": 17,
+      "names": [
+        "Cain, Mary",
+        "Davidon, William",
+        "Davidson, Thomas",
+        "Donato, Joan",
+        "Donovan, Shawn",
+        "Gilchrist, Joe",
+        "Glick, Ted",
+        "Grady, John",
+        "LoPresti, Frank",
+        "McAlister, Elizabeth",
+        "Mentz, Ann",
+        "Peluso, Judith",
+        "Rosa, John",
+        "Scoblick, Anthony",
+        "Swinglish, John",
+        "Walsh, Anne",
+        "Wingard, Barry"
+      ]
+    },
+    "sources": []
+  },
+  {
+    "date": "1970-06-18",
+    "title": "The Delaware Actions",
+    "location": {
+      "name": "Draft Board",
+      "address": "3202 Kirkwood Highway",
+      "city": "Wilmington",
+      "state": "Delaware",
+    },
+    "results": ["89,000 files destroyed"],
+    "participants": {
+      "count": 17,
+      "names": [
+        "Cain, Mary",
+        "Davidon, William",
+        "Davidson, Thomas",
+        "Donato, Joan",
+        "Donovan, Shawn",
+        "Gilchrist, Joe",
+        "Glick, Ted",
+        "Grady, John",
+        "LoPresti, Frank",
+        "McAlister, Elizabeth",
+        "Mentz, Ann",
+        "Peluso, Judith",
+        "Rosa, John",
+        "Scoblick, Anthony",
+        "Swinglish, John",
+        "Walsh, Anne",
+        "Wingard, Barry"
+      ]
+    },
+    "sources": []
+  },
+  {
+    "date": "1970-06-19",
+    "title": "The Delaware Actions",
+    "location": {
+      "name": "Draft Board, Old Custom House",
+      "address": "6th and King Streets",
+      "city": "Wilmington",
+      "state": "Delaware",
+    },
+    "results": ["89,000 files destroyed"],
+    "participants": {
+      "count": 17,
+      "names": [
+        "Cain, Mary",
+        "Davidon, William",
+        "Davidson, Thomas",
+        "Donato, Joan",
+        "Donovan, Shawn",
+        "Gilchrist, Joe",
+        "Glick, Ted",
+        "Grady, John",
+        "LoPresti, Frank",
+        "McAlister, Elizabeth",
+        "Mentz, Ann",
+        "Peluso, Judith",
+        "Rosa, John",
+        "Scoblick, Anthony",
+        "Swinglish, John",
+        "Walsh, Anne",
+        "Wingard, Barry"
+      ]
+    },
+    "sources": []
+  },
+  {
+    "date": "1970-07-09",
+    "title": "Brothers and Sisters",
+    "location": {
+      "name": "Selective Service complex",
+      "address": "",
+      "city": "New Haven",
+      "state": "Connecticut",
+    },
+    "results": [],
+    "participants": {
+      "count": 6,
+      "names": [
+        "Bell, Beverly",
+        "Donovan, Shawn",
+        "Hopkins, Carol",
+        "Pindell, Jerome",
+        "Shuman, Margorie",
+        "Swinglish, John"
+      ]
+    },
+    "sources": []
+  },
+  {
+    "date": "1970-07",
+    "title": "Pontiac Four",
+    "location": {
+      "name": "Draft board",
+      "address": "",
+      "city": "Peoria",
+      "state": "Illinois",
+    },
+    "results": [],
+    "participants": {
+      "count": 4,
+      "names": [
+        "Alderzon, Ortiz",
+        "Burke, Phyllis",
+        "Clark, Kevin",
+        "Pottinger, Patricia"
+      ]
+    },
+    "sources": []
   }
 ]
