@@ -632,8 +632,8 @@
       "address": "",
       "city": "Midland",
       "state": "Michigan",
-      "latitude": ,
-      "longitude":
+      "latitude": null,
+      "longitude": null
     },
     "results": ["magnetic tapes erased"],
     "participants": {
