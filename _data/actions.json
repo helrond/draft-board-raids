@@ -124,7 +124,7 @@
         "title": "Catonsville Nine",
         "author": "Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Catonsville_Nine",
-        "dateAccessed": "2021-12-05",
+        "dateAccessed": "2021-12-05"
       },
       {
         "title": "The Ultra-Resistance",
@@ -293,7 +293,7 @@
         "publication": "Hippyland",
         "url": "https://www.hipplanet.com/hip/hippie-havens/draft-board-and-dow-chemical-raids-1969/",
         "dateAccessed": "2021-12-05"
-      },
+      }
     ]
   },
   {
@@ -566,7 +566,7 @@
         "McNamara, Marty",
         "Williams, David",
         "Kennedy, Jane",
-        "Mulert, Jo Ann",
+        "Mulert, Jo Ann"
       ]
     },
     "sources": [
@@ -647,7 +647,7 @@
         "McNamara, Marty",
         "Williams, David",
         "Kennedy, Jane",
-        "Mulert, Jo Ann",
+        "Mulert, Jo Ann"
       ]
     },
     "sources": [
@@ -687,7 +687,7 @@
     "participants": {
       "count": 22,
       "names": [
-        "Turchick, Chuck",
+        "Turchick, Chuck"
       ]
     },
     "sources": [
@@ -713,7 +713,7 @@
       "name": "Hennepin County draft boards",
       "address": "11th Street between Second and Third Avenue",
       "city": "Minneapolis",
-      "state": "Minnesota",
+      "state": "Minnesota"
     },
     "results": ["all the 1-A and 1-A-O files in 22 draft boards"],
     "participants": {
@@ -743,14 +743,14 @@
       "name": "Draft board office",
       "address": "",
       "city": "Little Falls",
-      "state": "Minnesota",
+      "state": "Minnesota"
     },
     "results": ["FBI ambush"],
     "participants": {
       "count": 2,
       "names": [
         "Kroncke, Frank",
-        "Therriault, Mike",
+        "Therriault, Mike"
       ]
     },
     "sources": [
@@ -815,7 +815,7 @@
         "title": "A 50-year anniversary",
         "author": "Turchick, Chuck",
         "publication": "e-democracy.org",
-        "url": "http://forums.e-democracy.org/groups/mn-politics/messages/topic/SaTBmdG5y2OCaadjE3hBh"
+        "url": "http://forums.e-democracy.org/groups/mn-politics/messages/topic/SaTBmdG5y2OCaadjE3hBh",
         "dateAccessed": "2022-03-26"
       }
     ]
@@ -827,7 +827,7 @@
       "name": "Draft board office",
       "address": "",
       "city": "Winona",
-      "state": "Minnesota",
+      "state": "Minnesota"
     },
     "results": ["FBI ambush"],
     "participants": {
@@ -865,7 +865,7 @@
       "name": "",
       "address": "",
       "city": "Wabash",
-      "state": "Minnesota",
+      "state": "Minnesota"
     },
     "results": ["Draft files destroyed"],
     "participants": {
@@ -1071,7 +1071,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Batavia",
-      "state": "New York",
+      "state": "New York"
     },
     "results": ["700 draft records destroyed"],
     "participants": {
@@ -1095,7 +1095,7 @@
       "name": "Selective Service Board",
       "address": "",
       "city": "Niagara Falls",
-      "state": "New York",
+      "state": "New York"
     },
     "results": ["700 draft records destroyed"],
     "participants": {
@@ -1674,7 +1674,7 @@
       "name": "Draft office",
       "address": "",
       "city": "Elizabeth",
-      "state": "New Jersey",
+      "state": "New Jersey"
     },
     "results": ["Thousands of office files destroyed"],
     "participants": {
@@ -1703,7 +1703,7 @@
       "name": "Draft office",
       "address": "",
       "city": "Union City",
-      "state": "New Jersey",
+      "state": "New Jersey"
     },
     "results": ["Thousands of office files removed"],
     "participants": {
@@ -1732,7 +1732,7 @@
       "name": "",
       "address": "",
       "city": "Akron",
-      "state": "Ohio",
+      "state": "Ohio"
     },
     "results": ["100,000 draft files destroyed"],
     "participants": {
@@ -1751,7 +1751,7 @@
       "name": "Draft Board",
       "address": "3701 N. Broad Street",
       "city": "Philadelphia",
-      "state": "Pennsylvania",
+      "state": "Pennsylvania"
     },
     "results": ["800 A-1 files, leger books, meeting minutes, and 60,000 cross reference cards from six local boards destroyed"],
     "participants": {
@@ -1782,7 +1782,7 @@
       "name": "Draft Board 58",
       "address": "104 Baltimore Pike",
       "city": "Landsdowne",
-      "state": "Pennsylvania",
+      "state": "Pennsylvania"
     },
     "results": ["A-1 files, 30,000 cross reference materials and ledger books destroyed"],
     "participants": {
@@ -1813,7 +1813,7 @@
       "name": "Draft Board",
       "address": "38 South Street",
       "city": "Dover",
-      "state": "Delaware",
+      "state": "Delaware"
     },
     "results": ["89,000 files destroyed"],
     "participants": {
@@ -1847,7 +1847,7 @@
       "name": "Draft Board",
       "address": "",
       "city": "Georgetown",
-      "state": "Delaware",
+      "state": "Delaware"
     },
     "results": ["89,000 files destroyed"],
     "participants": {
@@ -1881,7 +1881,7 @@
       "name": "Draft Board",
       "address": "3202 Kirkwood Highway",
       "city": "Wilmington",
-      "state": "Delaware",
+      "state": "Delaware"
     },
     "results": ["89,000 files destroyed"],
     "participants": {
@@ -1915,7 +1915,7 @@
       "name": "Draft Board, Old Custom House",
       "address": "6th and King Streets",
       "city": "Wilmington",
-      "state": "Delaware",
+      "state": "Delaware"
     },
     "results": ["89,000 files destroyed"],
     "participants": {
@@ -1949,7 +1949,7 @@
       "name": "Selective Service complex",
       "address": "",
       "city": "New Haven",
-      "state": "Connecticut",
+      "state": "Connecticut"
     },
     "results": [],
     "participants": {
@@ -1972,7 +1972,7 @@
       "name": "Draft board",
       "address": "",
       "city": "Peoria",
-      "state": "Illinois",
+      "state": "Illinois"
     },
     "results": [],
     "participants": {
