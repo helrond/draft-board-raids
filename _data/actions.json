@@ -1985,5 +1985,55 @@
       ]
     },
     "sources": []
+  },
+  {
+    "date": "1970-12-24",
+    "title": "San Jose One",
+    "location": {
+      "name": "Draft board",
+      "address": "",
+      "city": "San Jose",
+      "state": "California"
+    },
+    "results": [],
+    "participants": {
+      "count": 1,
+      "names": [
+        "Simpson, John William"
+      ]
+    },
+    "sources": [
+      {
+        "title": "United States v. John William Simpson, AKA Brother John Simpson, 460 F.2d 515 (9th Cir. 1972)",
+        "publication": "Court Listener",
+        "url": "https://www.courtlistener.com/opinion/303536/united-states-v-john-william-simpson-aka-brother-john-simpson/",
+        "dateAccessed": "2024-09-30"
+      }
+    ]
+  },
+  {
+    "date": "1970-01",
+    "title": "San Jose One",
+    "location": {
+      "name": "Nicollet County Selective Service",
+      "address": "",
+      "city": "St. Peter",
+      "state": "Minneapolis"
+    },
+    "results": [],
+    "participants": {
+      "count": 1,
+      "names": [
+        "Wells, Brian"
+      ]
+    },
+    "sources": [
+      {
+        "title": "The Minnesota Eight’s attempts to destroy draft files during the Vietnam War were mostly unsuccessful",
+        "publication": "Minnesota Post",
+        "url": "https://www.minnpost.com/mnopedia/2020/06/the-minnesota-eights-attempts-to-destroy-draft-files-during-the-vietnam-war-were-mostly-unsuccessful/",
+        "dateAccessed": "2024-09-30"
+      }
+    ]
   }
 ]
